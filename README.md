@@ -3,12 +3,14 @@ Giving DJI the D ;)
 
 A Custom Firmware Download Tool for DJI Drones Writted in C#
 
-App should run on any windows box from 7 upwards and allows you to download any of the currently available community backed up firmware files for the recent DJI products. #
+If you just want to app, grab the EXE, feel free to take a peek at my sources if your intrested.
 
-I personallyy maintain these files on my FTP, the files themselves are community sourced and are untouched/unmoleseted.
+App should run on any windows box from 7 upwards running Dot Net 4.5 and allows you to download any of the currently available community backed up firmware files for the recent DJI products. #
+
+I personally maintain these files on my FTP, the files themselves are community sourced and are untouched/unmoleseted.
 
 
-#DeejayeyeHackingClub information repos aka "The OG's" (Original Gangsters)
+### #DeejayeyeHackingClub information repos aka "The OG's" (Original Gangsters)
 
 http://dji.retroroms.info/ - "Wiki"
 
