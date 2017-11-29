@@ -3,13 +3,12 @@ Giving DJI the D ;)
 
 A Custom Firmware Download Tool for DJI Drones Written in C#
 
-Currently Supplying Files For:
+Currently Supplying Files For:<br>
+**Aircraft:** P4, P4P, P4A, Mavic, Spark, I2<br>
+**Remote Control:** Mavic, Spark<br>
+**Goggles:** DJI<br>
 
-Aircraft: P4, P4P, P4A, Mavic, Spark, I2
-
-Remote Control: Mavic, Spark
-
-Goggles: DJI
+---
 
 If you're after DJI Drone or Goggle firmware, this is the app, just grab the EXE. If you wana to dig around a little more, feel free to take a peek at my sources if your intrested.
 
@@ -21,6 +20,8 @@ App should run on any windows machine from 7 upwards. You must be running Dot Ne
 These files are stored on an FTP server however the files themselves are community sourced and are untouched/unmoleseted.
 
 -cs2000
+
+---
 
 ### #DeejayeyeHackingClub information repos aka "The OG's" (Original Gangsters)
 
