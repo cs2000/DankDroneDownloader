@@ -1,13 +1,13 @@
 # DankDroneDownloader
 Giving DJI the D ;)
 
-A Custom Firmware Download Tool for DJI Drones Writted in C#
+A Custom Firmware Download Tool for DJI Drones Written in C#
 
-If you just want to app, grab the EXE, feel free to take a peek at my sources if your intrested.
+If youre after DJI drone or goggle firmware, this is the app, just grab the EXE. If you wana to dig around a little more, feel free to take a peek at my sources if your intrested.
 
-App should run on any windows box from 7 upwards running Dot Net 4.5 and allows you to download any of the currently available community backed up firmware files for the recent DJI products. #
+App should run on any windows machine from 7 upwards. You must be running Dot Net 4.5 however.
 
-I personally maintain these files on my FTP, the files themselves are community sourced and are untouched/unmoleseted.
+These files are stored on an FTP server however the files themselves are community sourced and are untouched/unmoleseted.
 
 
 ### #DeejayeyeHackingClub information repos aka "The OG's" (Original Gangsters)
@@ -34,4 +34,4 @@ https://github.com/MAVProxyUser/DJI_ftpd_aes_unscramble - DJI has modified the G
 
 https://github.com/darksimpson/jdjitools - Java DJI Tools, a collection of various tools/snippets tied in one CLI shell-like application
 
-https://github.com/cs2000/DankDroneDownloader - Windows based firmware download utility for all recent DJI products. Allows you to get firmware files to use with other apps such as DumlDore or PyDuml
+https://github.com/cs2000/DankDroneDownloader - Windows based firmware download utility for all recent DJI products. Allows you to get firmware files to use with other apps such as DUMLdore or PyDuml
