@@ -6,7 +6,17 @@ A Custom Firmware Download Tool for DJI Drones Written in C#
 Currently Supplying Files For:<br>
 **Aircraft:** P4, P4P, P4A, Mavic, Spark, I2<br>
 **Remote Control:** Mavic, Spark<br>
-**Goggles:** DJI<br>
+**Goggles:** DJI (Standard), DJI (Racing)<br>
+**Other:** Ocysync Air System<br>
+
+**Release Notes**
+
+Version 1.0.6556.25899 
+Added auto update feature. This was done to preserve the app if the host deletes the BIN files. App will prompt if there is an update.
+
+Version 1.0
+Initial Release
+
 
 ---
 
