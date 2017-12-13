@@ -11,10 +11,10 @@ Currently Supplying Files For:<br>
 
 **Release Notes**
 
-Version 1.0.6556.25899 
+Version 1.0.6556.25899 <br>
 Added auto update feature. This was done to preserve the app if the host deletes the BIN files. App will prompt if there is an update.
 
-Version 1.0
+Version 1.0 <br>
 Initial Release
 
 
