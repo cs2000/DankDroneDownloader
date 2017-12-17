@@ -10,6 +10,8 @@ Currently Supplying Files For:<br>
 **Other:** Ocysync Air System<br>
 
 **Release Notes**
+Version 1.0.6560.41728 <br>
+Added link to DUMLdore by Jezzab. The people "in the know" knew this app already. But if you're new to the scene, it allows WIndows users to flash the FW files they download with DankDroneDownloader. Just seemed a good idea to link mine and Jezzab's work in this way.
 
 Version 1.0.6556.25899 <br>
 Added auto update feature. This was done to preserve the app if the host deletes the BIN files. App will prompt if there is an update.
@@ -27,7 +29,7 @@ https://www.github.com/cs2000/DankDroneDownloader-src
 
 App should run on any windows machine from 7 upwards. You must be running Dot Net 4.5 however.
 
-These files are stored on an FTP server however the files themselves are community sourced and are untouched/unmoleseted.
+These files are stored on an FTP server however the files themselves are community sourced and are untouched/unmolested.
 
 -cs2000
 
