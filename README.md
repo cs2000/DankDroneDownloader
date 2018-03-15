@@ -13,6 +13,7 @@ Currently Supplying Files For:<br>
 Version 1.5 <br>
 Build 6648.40824 <br>
 Altered some small elements of the GUI, added Paypal donate buttons, scene greetings and a license. Small bug fixes.
+
 Version 1.0 <br>
 Build 6560.41728 <br>
 Added link to DUMLdore by Jezzab. The people "in the know" knew this app already. But if you're new to the scene, it allows Windows users to flash the FW files they download with DankDroneDownloader. Just seemed a good idea to link mine and Jezzab's work in this way.
