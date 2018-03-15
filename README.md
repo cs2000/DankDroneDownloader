@@ -28,10 +28,7 @@ Initial Release
 
 ---
 
-If you're after DJI Drone or Goggle firmware, this is the app, just grab the EXE. If you wana to dig around a little more, feel free to take a peek at my sources if your intrested.
-
-Source code:
-https://www.github.com/cs2000/DankDroneDownloader-src
+Source code has been removed to protect the app and the source files for firmware.
 
 App should run on any windows machine from 7 upwards. You must be running Dot Net 4.5 however.
 
