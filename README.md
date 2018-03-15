@@ -4,16 +4,21 @@ Giving DJI the D ;)
 A Custom Firmware Download Tool for DJI Drones Written in C#
 
 Currently Supplying Files For:<br>
-**Aircraft:** Phantom 4, Phantom 4 Professional, Phantom 4 Advanced, Mavic Pro (Incl Platinum & Alpine), Spark, Inspire 1, Inspire 2, Agras MG-1S. Matrice 100, Matrice 600, Matrice 600 Pro<br>
+**Aircraft:** Phantom 4 Standard, Phantom 4 Professional, Phantom 4 Advanced, Mavic Pro (Incl Platinum & Alpine), Mavic Air, Spark, Inspire 1, Inspire 2, Agras MG-1S. Matrice 100, Matrice 600, Matrice 600 Pro<br>
 **Remote Control:** Mavic, Spark<br>
 **Goggles:** DJI (Standard), DJI (Racing)<br>
 **Other:** Ocusync Air System, A3 Flight Controller, D-RTK Ground Station, N3 Flight Controller<br>
 
 **Release Notes**<br>
-Version 1.0.6560.41728 <br>
-Added link to DUMLdore by Jezzab. The people "in the know" knew this app already. But if you're new to the scene, it allows WIndows users to flash the FW files they download with DankDroneDownloader. Just seemed a good idea to link mine and Jezzab's work in this way.
+Version 1.5 <br>
+Build 6648.40824 <br>
+Altered some small elements of the GUI, added Paypal donate buttons, scene greetings and a license. Small bug fixes.
+Version 1.0 <br>
+Build 6560.41728 <br>
+Added link to DUMLdore by Jezzab. The people "in the know" knew this app already. But if you're new to the scene, it allows Windows users to flash the FW files they download with DankDroneDownloader. Just seemed a good idea to link mine and Jezzab's work in this way.
 
-Version 1.0.6556.25899 <br>
+Version 1.0 <br>
+Build 6556.25899 <br>
 Added auto update feature. This was done to preserve the app if the host deletes the BIN files. App will prompt if there is an update.
 
 Version 1.0 <br>
