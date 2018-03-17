@@ -11,6 +11,10 @@ Currently Supplying Files For:<br>
 
 **Release Notes**<br>
 Version 1.5 <br>
+Build 6650.20845 <br>
+Fixed GUI bug introduced with previous version.
+
+Version 1.5 <br>
 Build 6649.35372 <br>
 Fixed GUI bug introduced with previous version.
 
