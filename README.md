@@ -12,8 +12,8 @@ Currently Supplying Files For:<br>
 **Release Notes**<br>
 Version 1.5 <br>
 Build 6659.39278 <br>
-Fixed a couple more GUI bugs (resizing of window elements was possible
-If you donate to DDD, you now get credits from within the app, check the "Donate" button to see it working
+Fixed a couple more GUI bugs (resizing of window elements was possible<br>
+If you donate to DDD, you now get credits from within the app, check the "Donate" button to see it working<br>
 Re-coded the scroller's within the app to take data from a server rather than being "baked in"
 
 Version 1.5 <br>
