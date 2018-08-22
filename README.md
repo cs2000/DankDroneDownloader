@@ -11,6 +11,12 @@ Currently Supplying Files For:<br>
 
 **Release Notes**<br>
 Version 1.5 <br>
+Build 6808.28756 <br>
+Added firmware uploader so you can submit missing firmware files for addition to DDD<br>
+<b>I have to be able to figure out what drones your uploaded files are for!!! If you want them added, make sure you call them something sensible so i can identify and validate them before i add them to the DDD listings.</b><br>
+Added link to DUMLDore by Jezzab
+
+Version 1.5 <br>
 Build 6659.39278 <br>
 Fixed a couple more GUI bugs (resizing of window elements was possible<br>
 If you donate to DDD, you now get credits from within the app, check the "Donate" button to see it working<br>
