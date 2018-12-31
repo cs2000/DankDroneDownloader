@@ -4,10 +4,12 @@ Giving DJI the D ;)
 A Custom Firmware Download Tool for DJI Drones Written in C#
 
 Currently Supplying Files For:<br>
-**Aircraft:** Phantom 4 Standard, Phantom 4 Professional, Phantom 4 Advanced, Mavic Pro (Incl Platinum & Alpine), Mavic Air, Spark, Inspire 1, Inspire 2, Agras MG-1S. Matrice 100, Matrice 600, Matrice 600 Pro<br>
-**Remote Control:** Mavic, Spark<br>
+**Aircraft:** Agras MG-1S, Agras MG-1P, Inspire 1, Inspire 1 Pro, Inspire 2, Matrice 100, Matrice 600, Matrice 600 Pro, Mavic Pro (Incl Platinum & Alpine), Mavic Air, Mavic Pro 2, Phantom 3 Standard, Phantom 3 Professional, Phantom 3 Advanced, Phantom 3 4K, Phantom 4 Standard, Phantom 4 Professional, Phantom 4 Advanced, Phantom 4 2.0, Spark<br>
+**Remote Control:** Inspire 1, Mavic Pro, Mavic Air, Mavic Pro 2, Phantom 3 Advanced, Spark<br>
 **Goggles:** DJI (Standard), DJI (Racing)<br>
-**Other:** Ocusync Air System, A3 Flight Controller, D-RTK Ground Station, N3 Flight Controller<br>
+**Other:** Ocusync Air System, A3 Flight Controller, DJI-RTK Ground Station, N3 Flight Controller, CrystalSky 5.5 & 7.8 Inch, Osmo (Pro, Raw & Standard)<br>
+
+<br>
 
 **Release Notes**<br>
 Version 1.5 <br>
