@@ -14,39 +14,55 @@ Currently Supplying Files For:<br>
 **Release Notes**<br>
 Version 1.5 <br>
 Build 6808.28756 <br>
-Added firmware uploader so you can submit missing firmware files for addition to DDD<br>
-<b>I have to be able to figure out what drones your uploaded files are for!!! If you want them added, make sure you call them something sensible so i can identify and validate them before i add them to the DDD listings.</b><br>
-Added link to DUMLDore by Jezzab
+<i>
+- Added firmware uploader so you can submit missing firmware files for addition to DDD.<br>
+<b>- I have to be able to figure out what drones your uploaded files are for!!! If you want them added, make sure you call them something sensible so i can identify and validate them before i add them to the DDD listings.</b><br>
+- Added link to DUMLDore by Jezzab.
+</i>
 
 Version 1.5 <br>
 Build 6659.39278 <br>
-Fixed a couple more GUI bugs (resizing of window elements was possible<br>
-If you donate to DDD, you now get credits from within the app, check the "Donate" button to see it working<br>
-Re-coded the scroller's within the app to take data from a server rather than being "baked in"
+<i>
+- Fixed a couple more GUI bugs (resizing of window elements was possible).<br>
+- If you donate to DDD, you now get credits from within the app, check the "Donate" button to see it working.<br>
+- Re-coded the scroller's within the app to take data from a server rather than being "baked in".
+</i>
 
 Version 1.5 <br>
 Build 6650.20845 <br>
-Fixed GUI bug introduced with previous version.
+<i>
+- Fixed GUI bug introduced with previous version.
+</i>
 
 Version 1.5 <br>
 Build 6649.35372 <br>
-Fixed GUI bug introduced with previous version.
+<i>
+- Fixed GUI bug introduced with previous version.
+</i>
 
 Version 1.5 <br>
 Build 6648.40824 <br>
-Altered some small elements of the GUI, added Paypal donate buttons, scene greetings and a license. Small bug fixes.
+<i>
+- Altered some small elements of the GUI, added Paypal donate buttons, scene greetings and a license.<br>
+- Small bug fixes.
+</i>
 
 Version 1.0 <br>
 Build 6560.41728 <br>
-Added link to DUMLdore by Jezzab. The people "in the know" knew this app already. But if you're new to the scene, it allows Windows users to flash the FW files they download with DankDroneDownloader. Just seemed a good idea to link mine and Jezzab's work in this way.
+<i>
+- Added link to DUMLdore by Jezzab. The people "in the know" knew this app already. But if you're new to the scene, it allows Windows users to flash the FW files they download with DankDroneDownloader. Just seemed a good idea to link mine and Jezzab's work in this way.
+</i>
 
 Version 1.0 <br>
 Build 6556.25899 <br>
-Added auto update feature. This was done to preserve the app if the host deletes the BIN files. App will prompt if there is an update.
+<i>
+- Added auto update feature. This was done to preserve the app if the host deletes the BIN files. App will prompt if there is an update.
+</i>
 
 Version 1.0 <br>
+<i>
 Initial Release
-
+</i>
 
 ---
 
