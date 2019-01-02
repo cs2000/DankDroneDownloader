@@ -11,7 +11,7 @@ Currently Supplying Files For:<br>
 
 <br>
 
-**Release Notes**<br>
+<u>**Release Notes**</u><br>
 Version 1.5 <br>
 Build 6808.28756 <br>
 <i>
@@ -61,7 +61,7 @@ Build 6556.25899 <br>
 
 Version 1.0 <br>
 <i>
-Initial Release
+- Initial Release
 </i>
 
 ---
