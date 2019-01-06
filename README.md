@@ -13,6 +13,12 @@ Currently Supplying Files For:<br>
 
 **Release Notes**<br>
 Version 1.5 <br>
+Build 6945.21923 <br>
+<i>
+- Total rewrite of the firmware upload mechanism. Uploader is built into the app now rather than relying on a nasty PHP embedded page. Multiple firmware uploads are now supported aswell as marking partial/failed uploads.
+</i>
+
+Version 1.5 <br>
 Build 6808.28756 <br>
 <i>
 - Added firmware uploader so you can submit missing firmware files for addition to DDD.<br>
