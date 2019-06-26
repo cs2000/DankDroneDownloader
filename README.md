@@ -13,6 +13,13 @@ Currently Supplying Files For:<br>
 
 **Release Notes**<br>
 Version 1.5 <br>
+Build 7116.21904 <br>
+<i>
+- Add a new line just below the firmware list window which shows the SHA256 hash of the firmware file, this can then be verified after your download is complete to ensure the file is legitimate and a valid package.
+- Small GUI bug fixes, missed the drone icon on some of the window elements, text alignment tweaks.
+</i>
+
+Version 1.5 <br>
 Build 6945.21923 <br>
 <i>
 - Total rewrite of the firmware upload mechanism. Uploader is built into the app now rather than relying on a nasty PHP embedded page. Multiple firmware uploads are now supported aswell as marking partial/failed uploads.
