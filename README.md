@@ -14,6 +14,7 @@ Currently Supplying Files For:<br>
 **Release Notes**<br>
 Version 1.5 <br>
 Build 7116.21904 <br>
+SHA256 7de8dd1f650238375c2edc9299c1c13efac937a3cae46cf2ce6e92da396ec971 <br>
 <i>
 - Add a new line just below the firmware list window which shows the SHA256 hash of the firmware file, this can then be verified after your download is complete to ensure the file is legitimate and a valid package.
 - Small GUI bug fixes, missed the drone icon on some of the window elements, text alignment tweaks.
@@ -76,6 +77,16 @@ Version 1.0 <br>
 <i>
 - Initial Release
 </i>
+
+<br>
+
+**Security**<br>
+I have been informed that some AV apps very occasionally trigger when DDD is ran. This is most likely due to the way it downloads the files, the files are not downloaded to disk in the standard way until the "Save As" dialogue comes up, this could be seen by some AV algorithms as being a download that the user didn’t initiate.
+
+Rest assured nothing nefarious is going on!
+
+https://www.virustotal.com/gui/file/7de8dd1f650238375c2edc9299c1c13efac937a3cae46cf2ce6e92da396ec971/detection
+
 
 ---
 
