@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<update>
+	<!--Current version-->
+	<version>1.5.7221.31372</version>
+	<!--Update source.-->
+	<sources>
+		<!--Remote servers-->
+		<source>http://dankdronedownloader.co.uk/cs2000update/DankDroneDownloader.exe</source>
+	</sources>
+	<!--Description for this update. This text display without leading tabs and leading and trailing spaces-->
+	<description>
+		- Multiple Server redundancy is now enabled.
+        - Security fixes on the file upload system.
+	</description>
+</update>

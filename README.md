@@ -13,6 +13,13 @@ Currently Supplying Files For:<br>
 
 **Release Notes**<br>
 Version 1.5 <br>
+Build 7221.31372 <br>
+<i>
+- Added in some code in the back-end to make available for use a secondary firmware server. This is for redundancy.
+- Fixed a security issue, both client and server side, which allowed undesirable files to be provided through the Firmware Upload utility and possible privilidge escalation on the server.
+</i>
+
+Version 1.5 <br>
 Build 7116.21904 <br>
 <i>
 - Add a new line just below the firmware list window which shows the SHA256 hash of the firmware file, this can then be verified after your download is complete to ensure the file is legitimate and a valid package.
