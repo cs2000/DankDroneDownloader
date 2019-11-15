@@ -13,6 +13,13 @@ Currently Supplying Files For:<br>
 
 **Release Notes**<br>
 Version 1.5 <br>
+Build 7221.31372 <br>
+<i>
+- Added in some code in the back-end to make available for use a secondary firmware server. This is for redundancy.
+- Fixed a security issue, both client and server side, which allowed undesirable files to be provided through the Firmware Upload utility and possible privilidge escalation on the server.
+</i>
+
+Version 1.5 <br>
 Build 7116.21904 <br>
 SHA256 7de8dd1f650238375c2edc9299c1c13efac937a3cae46cf2ce6e92da396ec971 <br>
 <i>
