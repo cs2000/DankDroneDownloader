@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="utf-8" ?> 
 <update>
 	<!--Current version-->
-	<version>1.5.7221.31372</version>
+	<version>2.0.7266.24220</version>
 	<!--Update source.-->
 	<sources>
 		<!--Remote servers-->
 		<source>http://dankdronedownloader.co.uk/cs2000update/DankDroneDownloader.exe</source>
 	</sources>
 	<!--Description for this update. This text display without leading tabs and leading and trailing spaces-->
-	<description>
-		- Multiple Server redundancy is now enabled.
-        - Security fixes on the file upload system.
+	<description>*
+//////////NEW\\\\\\\\\\
+- Multiple Server redundancy is now enabled for both files and the database.
+- Total re-design from the ground up.
+- Database driven backend to ensure reliability.
+- Startup speed significantly incresed.
+    
+	
+//////////NOTES\\\\\\\\\\
+DankDroneDownloader 1.x will stop functioning on the 30th of November 2019. Please ensure you accept this update to continue to use the app.
+    
 	</description>
 </update>

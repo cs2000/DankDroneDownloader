@@ -12,6 +12,21 @@ Currently Supplying Files For:<br>
 <br>
 
 **Release Notes**<br>
+Version 2.0 <br>
+Build 7266.24220 <br>
+SHA256 0b3b82550b869582e826f83b38eaa74ca5a1046248e77e0f6affd8eab0ad9a34<br>
+Yes, its here, a major overhaul to DDD has just been released complete with a whole host of changes!<br>
+This is a significant and very important update, please accept it wqhen prompted. The old versions of DDD (anything below 2.0) will cease to function as of 30th of November 2019 due to the backend improvements made for DDD 2.0<br>
+<i>
+- Tne entire of the app has been reqritten from the ground up using modern libraries to improbe basically everything, but keep the app you know and love.
+- Familier, but new GUI design. The same filters are available, however we have a small splash of colour.
+- If you exit the app, it will remember which category you had selected before and take you straight back to it.
+- MUCH faster app opening, this is down from 20-30 seconds to less then 5 now!
+- The app now uses multiple backend databases to ensure firmware info is always consistant and accurite.
+- Propper automatic failover now added. All firmware and database info is held on multiple server enabling auto failover if a server, or a file goes offline on one host.
+- New accounements page from within the app. Check here regularys as brief release notes and service announcements will be posted here.
+</i>
+
 Version 1.5 <br>
 Build 7221.31372 <br>
 <i>
