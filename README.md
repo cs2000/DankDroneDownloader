@@ -13,6 +13,12 @@ Currently Supplying Files For:<br>
 
 **Release Notes**<br>
 Version 2.0 <br>
+Build 7430.26169 <br>
+SHA256 0b3b82550b869582e826f83b38eaa74ca5a1046248e77e0f6affd8eab0ad9a34<br>
+Nothing major in this release. Just some minor bug fixes implimented to ensure app stability.<br>
+I am aware of the app not functioning inside of China or anywhere else protected by the "Great Fireall". There is little i can do about this right now.<br>
+
+Version 2.0 <br>
 Build 7266.24220 <br>
 SHA256 0b3b82550b869582e826f83b38eaa74ca5a1046248e77e0f6affd8eab0ad9a34<br>
 Yes, its here, a major overhaul to DDD has just been released complete with a whole host of changes!<br>
