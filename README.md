@@ -1,17 +1,26 @@
 # DankDroneDownloader
 Giving DJI the D ;)
 
-A Custom Firmware Download Tool for DJI Drones Written in C# & now available in your (Chrome, Firefox or Edge) web browser over at http://dankdronedownloader.com/DDD2/app
+A Custom Firmware Download Tool for DJI Drones Written in C# & now available in your (Chrome, Firefox or Edge) web browser over at http://dankdronedownloader.com/DDD2/app for non windows based users!
 
 Currently Supplying Files For:<br>
-**Aircraft:** Agras MG-1S, Agras MG-1P, Inspire 1, Inspire 1 Pro, Inspire 2, Matrice 100, Matrice 600, Matrice 600 Pro, Mavic Pro (Incl Platinum & Alpine), Mavic Air, Mavic Pro 2, Phantom 3 Standard, Phantom 3 Professional, Phantom 3 Advanced, Phantom 3 4K, Phantom 4 Standard, Phantom 4 Professional, Phantom 4 Advanced, Phantom 4 2.0, Phantom 4 RTK, Phantom RTK (China Version), Spark, Mavic Mini, Matrice 200, Matrice 200 V2<br>
-**Remote Control:** Inspire 1, Mavic Pro, Mavic Air, Mavic Pro 2, Phantom 3 Advanced, Spark, FPV System, Smart Controller<br>
+**Aircraft:** Agras MG-1S, Agras MG-1P, Inspire 1, Inspire 1 Pro, Inspire 2, Matrice 100, Matrice 600, Matrice 600 Pro, Mavic Pro (Incl Platinum & Alpine), Mavic Air, Mavic Air 2, Mavic Pro 2, Phantom 3 Standard, Phantom 3 Professional, Phantom 3 Advanced, Phantom 3 4K, Phantom 4 Standard, Phantom 4 Professional, Phantom 4 Advanced, Phantom 4 2.0, Phantom 4 RTK, Phantom RTK (China Version), Spark, Mavic Mini, Matrice 200, Matrice 200 V2<br>
+**Remote Control:** Inspire 1, Mavic Pro, Mavic Pro 2, Mavic Air, Phantom 3 Advanced, Spark, FPV System, Smart Controller<br>
 **Goggles:** DJI (Standard), DJI (Racing), DJI (FPV System)<br>
 **Other:** Ocusync Air System, A3 Flight Controller, DJI-RTK Ground Station, N3 Flight Controller, CrystalSky 5.5 & 7.8 Inch, Osmo (Pro, Raw, Standard & Pocket), FPV System Air Unit<br>
 
 <br>
 
 **Release Notes**<br>
+Version 2.0 <br>
+Build 7460.19289 <br>
+SHA256 f6ec20dd1d87483467eff546d774eec67c6d5da2e4289a54c36c5469cf4a7f66<br>
+Once again, i am aware of the app not functioning inside of China or anywhere else protected by the "Great Fireall". Please dont raise GitHub Issue's about this as they will just be closed. I have no desire to add extra servers and a ton of additional code to the app just to bypass the censorship from a dictatorship government.<br>
+<i>
+- Changes to the GUI so that the old 'AC' and 'RC' labels have now been replaced with 'Aircraft' and 'Remote' respectively, this is to make things clearer for new users.
+- DUMLDore link on the top toolbar replaced with Drone-Hacks, the new way to flash your firmware and further hack your drone. DUMLDore only supported older drones (sadly), so time to update the link.
+</i>
+
 Version 2.0 <br>
 Build 7430.26169 <br>
 SHA256 980386950c6135381eeefc31e4adc5b6974cebf644750e8a9185ed4e976b52e4<br>
@@ -59,7 +68,7 @@ Build 6808.28756 <br>
 <i>
 - Added firmware uploader so you can submit missing firmware files for addition to DDD.<br>
 <b>- I have to be able to figure out what drones your uploaded files are for!!! If you want them added, make sure you call them something sensible so i can identify and validate them before i add them to the DDD listings.</b><br>
-- Added link to DUMLDore by Jezzab.
+- Re-Added link to DUMLDore by Jezzab.
 </i>
 
 Version 1.5 <br>
@@ -120,7 +129,7 @@ https://www.virustotal.com/gui/file/7de8dd1f650238375c2edc9299c1c13efac937a3cae4
 
 Source code has been removed to protect the app and the source files for firmware.
 
-App should run on any windows machine from 7 upwards. You must be running Dot Net 4.5 however.
+App should run on any windows machine from 7 upwards. You must be running Dot Net Framework 4.5 however.
 
 These files are stored on an FTP server however the files themselves are community sourced and are untouched/unmolested.
 
