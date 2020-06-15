@@ -13,6 +13,13 @@ Currently Supplying Files For:<br>
 
 **Release Notes**<br>
 Version 2.0 <br>
+Build 7471.25679 <br>
+SHA256 ca116576322e592da2240ac60a1e6ecb839157a8a4bc916c64f2ff9ae76c360c<br>
+<i>
+- Simple bug fix. Forgot to compile all required image assets causing a few GUI issues.
+</i>
+
+Version 2.0 <br>
 Build 7460.19289 <br>
 SHA256 f6ec20dd1d87483467eff546d774eec67c6d5da2e4289a54c36c5469cf4a7f66<br>
 Once again, i am aware of the app not functioning inside of China or anywhere else protected by the "Great Fireall". Please dont raise GitHub Issue's about this as they will just be closed. I have no desire to add extra servers and a ton of additional code to the app just to bypass the censorship from a dictatorship government.<br>
