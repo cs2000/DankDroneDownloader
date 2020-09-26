@@ -1,17 +1,30 @@
 # DankDroneDownloader
-Giving DJI the D ;)
+Giving DJI (and now, others!) the D ;)
 
-A Custom Firmware Download Tool for DJI Drones Written in C# & now available in your (Chrome, Firefox or Edge) web browser over at http://dankdronedownloader.com/DDD2/app for non windows based users!
+A custom written firmware download tool for popular drones. Also now available in your (Chrome, Firefox or Edge) web browser over at http://dankdronedownloader.com/DDD2/app for non windows based users!
 
 Currently Supplying Files For:<br>
+**DJI**
 **Aircraft:** Agras MG-1S, Agras MG-1P, Inspire 1, Inspire 1 Pro, Inspire 2, Matrice 100, Matrice 600, Matrice 600 Pro, Mavic Pro (Incl Platinum & Alpine), Mavic Air, Mavic Air 2, Mavic Pro 2, Phantom 3 Standard, Phantom 3 Professional, Phantom 3 Advanced, Phantom 3 4K, Phantom 4 Standard, Phantom 4 Professional, Phantom 4 Advanced, Phantom 4 2.0, Phantom 4 RTK, Phantom RTK (China Version), Spark, Mavic Mini, Matrice 200, Matrice 200 V2<br>
 **Remote Control:** Inspire 1, Mavic Pro, Mavic Pro 2, Mavic Air, Phantom 3 Advanced, Spark, FPV System, Smart Controller<br>
 **Goggles:** DJI (Standard), DJI (Racing), DJI (FPV System)<br>
 **Other:** Ocusync Air System, A3 Flight Controller, DJI-RTK Ground Station, N3 Flight Controller, CrystalSky 5.5 & 7.8 Inch, Osmo (Pro, Raw, Standard & Pocket), FPV System Air Unit<br>
 
+**Autel**
+**Aircraft:** Evo, Evo II<br>
+
 <br>
 
 **Release Notes**<br>
+Version 2.0 <br>
+Build 7574.18095<br>
+SHA256 5ff5f86cc7dc1b40de9ba9b45cb574a3ff88ed9aa8b08c7b88eaabf02b7934cd<br>
+<i>
+- For the very first time, DDD will now archive firmware for other brands of drones. This release includes support for the popular Autel series of drones with the Evo and the Evo 2. Further support for new manufacturers can now be added without new app updates and will be done as and when there is a demand or need for them. So far, Autel dont seem to apply as many of the same restrictions to their owners, but i want the hacking community to begin work on unlocking the few resttictions they do have (altitude and Chinese NFZ's) along with anything else we can unlock in terms of more performance, lets see!
+- Bug Fixes.
+- In future updates, there will be a "Brand" filter at the top of the app to select between DJI and Autel.
+</i>
+
 Version 2.0 <br>
 Build 7471.25679 <br>
 SHA256 ca116576322e592da2240ac60a1e6ecb839157a8a4bc916c64f2ff9ae76c360c<br>
