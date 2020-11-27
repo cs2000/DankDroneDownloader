@@ -17,6 +17,14 @@ Currently Supplying Files For:<br>
 
 **Release Notes**<br>
 Version 2.0 <br>
+Build 7636.41342<br>
+SHA256 1E98577A021A94910E676E170626407E16AA3117C30643B7805DADB8933E6BED<br>
+<i>
+- Update of the Copyright date, seems i slipped behind with this!
+- Re-addition of the Drone-Hacks lock to the top bar of the app. Go visit these guys for your drone hacking needs!
+</i>
+
+Version 2.0 <br>
 Build 7574.18095<br>
 SHA256 5ff5f86cc7dc1b40de9ba9b45cb574a3ff88ed9aa8b08c7b88eaabf02b7934cd<br>
 <i>
