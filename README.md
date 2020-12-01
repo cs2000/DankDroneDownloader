@@ -5,7 +5,7 @@ A custom written firmware download tool for popular drones. Also now available i
 
 Currently Supplying Files For:<br>
 **DJI**
-**Aircraft:** Agras MG-1S, Agras MG-1P, Inspire 1, Inspire 1 Pro, Inspire 2, Matrice 100, Matrice 600, Matrice 600 Pro, Mavic Pro (Incl Platinum & Alpine), Mavic Air, Mavic Air 2, Mavic Pro 2, Phantom 3 Standard, Phantom 3 Professional, Phantom 3 Advanced, Phantom 3 4K, Phantom 4 Standard, Phantom 4 Professional, Phantom 4 Advanced, Phantom 4 2.0, Phantom 4 RTK, Phantom RTK (China Version), Spark, Mavic Mini, Matrice 200, Matrice 200 V2<br>
+**Aircraft:** Agras MG-1S, Agras MG-1P, Inspire 1, Inspire 1 Pro, Inspire 2, Matrice 100, Matrice 600, Matrice 600 Pro, Mavic Pro (Incl Platinum & Alpine), Mavic Air, Mavic Air 2, Mavic Pro 2, Phantom 3 Standard, Phantom 3 Professional, Phantom 3 Advanced, Phantom 3 4K, Phantom 4 Standard, Phantom 4 Professional, Phantom 4 Advanced, Phantom 4 2.0, Phantom 4 RTK, Phantom RTK (China Version), Spark, Mavic Mini, Mavic Mini2, Matrice 200, Matrice 200 V2<br>
 **Remote Control:** Inspire 1, Mavic Pro, Mavic Pro 2, Mavic Air, Phantom 3 Advanced, Spark, FPV System, Smart Controller<br>
 **Goggles:** DJI (Standard), DJI (Racing), DJI (FPV System)<br>
 **Other:** Ocusync Air System, A3 Flight Controller, DJI-RTK Ground Station, N3 Flight Controller, CrystalSky 5.5 & 7.8 Inch, Osmo (Pro, Raw, Standard & Pocket), FPV System Air Unit<br>
@@ -16,6 +16,14 @@ Currently Supplying Files For:<br>
 <br>
 
 **Release Notes**<br>
+Version 2.0 <br>
+Build 7638.2078<br>
+SHA256 7C6B1FFF2F123A3C08A253E7E8773B4F1733BFE0CA84278C1C1C19B7FACB2F1B<br>
+<i>
+- Added the DJI Anti Rollback version number below the SHA256 hash of the firmware so you can easily see if downgrading will be blocked for your desired firmware. THis will be coming to the web version soon.
+- Re-addition of the Drone-Hacks lock to the top bar of the app. Go visit these guys for your drone hacking needs!
+</i>
+
 Version 2.0 <br>
 Build 7636.41342<br>
 SHA256 1E98577A021A94910E676E170626407E16AA3117C30643B7805DADB8933E6BED<br>
