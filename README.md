@@ -5,10 +5,10 @@ A custom written firmware download tool for popular drones. Also now available i
 
 Currently Supplying Files For:<br>
 **DJI**
-**Aircraft:** Agras MG-1S, Agras MG-1P, Inspire 1, Inspire 1 Pro, Inspire 2, Matrice 100, Matrice 600, Matrice 600 Pro, Mavic Pro (Incl Platinum & Alpine), Mavic Air, Mavic Air 2, Mavic Pro 2, Phantom 3 Standard, Phantom 3 Professional, Phantom 3 Advanced, Phantom 3 4K, Phantom 4 Standard, Phantom 4 Professional, Phantom 4 Advanced, Phantom 4 2.0, Phantom 4 RTK, Phantom RTK (China Version), Spark, Mavic Mini, Mavic Mini2, Matrice 200, Matrice 200 V2<br>
-**Remote Control:** Inspire 1, Mavic Pro, Mavic Pro 2, Mavic Air, Phantom 3 Advanced, Spark, FPV System, Smart Controller<br>
-**Goggles:** DJI (Standard), DJI (Racing), DJI (FPV System)<br>
-**Other:** Ocusync Air System, A3 Flight Controller, DJI-RTK Ground Station, N3 Flight Controller, CrystalSky 5.5 & 7.8 Inch, Osmo (Pro, Raw, Standard & Pocket), FPV System Air Unit<br>
+**Aircraft:** AGRAS MG-1P, AGRAS MG-1S, Inspire 1, Inspire 1 Pro, Inspire 2, Matrice 100, Matrice 200, Matrice 200 V2, Matrice 600, Matrice 600 Pro, Mavic Air, Mavic Air 2, Mavic Mini, Mavic Mini 2, Mavic Pro 1 - Incl Platinum and Alpine, Mavic Pro 2 - Enterprise, Mavic Pro 2 - Enterprise Dual, Mavic Pro 2 - Incl Zoom, Phantom 3 4K, Phantom 3 Advanced, Phantom 3 Professional, Phantom 3 Standard, Phantom 4 Advanced, Phantom 4 Pro 2.0, Phantom 4 Professional, Phantom 4 RTK, Phantom 4 RTK - China Only Version, Phantom 4 Standard, Spark<br>
+**Remote Control:** Crystalsky 5.50 Inch, Crystalsky 7.85 Inch, Smart Controller<br>
+**Goggles:** Racing Edition, Standard, FPV System<br>
+**Other:** A3 Flight Controller, D-RTK GNSS, Ocusync Air System, FPV System - Air Unit, N3 Flight Controller, Osmo - Incl Pro Raw and Standard, Osmo Action, Osmo Pocket<br>
 
 **Autel**
 **Aircraft:** Evo, Evo II<br>
