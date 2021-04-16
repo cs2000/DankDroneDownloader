@@ -5,7 +5,7 @@ A custom written firmware download tool for popular drones. Also now available i
 
 Currently Supplying Files For:<br>
 **DJI**
-**Aircraft:** AGRAS MG-1P, AGRAS MG-1S, Inspire 1, Inspire 1 Pro, Inspire 2, Matrice 100, Matrice 200, Matrice 200 V2, Matrice 600, Matrice 600 Pro, Mavic Air, Mavic Air 2, Mavic Mini, Mavic Mini 2, Mavic Pro 1 - Incl Platinum and Alpine, Mavic Pro 2 - Enterprise, Mavic Pro 2 - Enterprise Dual, Mavic Pro 2 - Incl Zoom, Phantom 3 4K, Phantom 3 Advanced, Phantom 3 Professional, Phantom 3 Standard, Phantom 4 Advanced, Phantom 4 Pro 2.0, Phantom 4 Professional, Phantom 4 RTK, Phantom 4 RTK - China Only Version, Phantom 4 Standard, Spark<br>
+**Aircraft:** AGRAS MG-1P, AGRAS MG-1S, Inspire 1, Inspire 1 Pro, Inspire 2, Matrice 100, Matrice 200, Matrice 200 V2, Matrice 600, Matrice 600 Pro, Mavic Air, Mavic Air 2, Mavic Air 2s, Mavic Mini, Mavic Mini 2, Mavic Pro 1 - Incl Platinum and Alpine, Mavic Pro 2 - Enterprise, Mavic Pro 2 - Enterprise Dual, Mavic Pro 2 - Enterprise RTK, Mavic Pro 2 - Incl Zoom, Phantom 3 4K, Phantom 3 Advanced, Phantom 3 Professional, Phantom 3 Standard, Phantom 4 Advanced, Phantom 4 Pro 2.0, Phantom 4 Professional, Phantom 4 RTK, Phantom 4 RTK - China Only Version, Phantom 4 Standard, Spark<br>
 **Remote Control:** Crystalsky 5.50 Inch, Crystalsky 7.85 Inch, Smart Controller<br>
 **Goggles:** Racing Edition, Standard, FPV System<br>
 **Other:** A3 Flight Controller, D-RTK GNSS, Ocusync Air System, FPV System - Air Unit, N3 Flight Controller, Osmo - Incl Pro Raw and Standard, Osmo Action, Osmo Pocket<br>
