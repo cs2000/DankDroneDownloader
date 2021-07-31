@@ -18,6 +18,14 @@ Currently Supplying Files For:<br>
 **Release Notes**<br>
 Version 2.0 <br>
 Build 7638.2078<br>
+SHA256 7750B892DE997233CA7CCB273A2B4D972C9744F15C71CA431EC7EDB3A20642B6<br>
+<i>
+- Due to the recent addition of Autel firmware, the app now has a 'Brand' filter where you can pre-filter results for DJI or Autel. Any future brands DDD supports can now be easily added!
+- Issue #18 recently reported by ddzobov has now been fixed. The app was crashing when large firmwares (such as SmartController) were downloaded. A new file handliong method has been written for these larger files.
+</i>
+
+Version 2.0 <br>
+Build 7882.12112<br>
 SHA256 7C6B1FFF2F123A3C08A253E7E8773B4F1733BFE0CA84278C1C1C19B7FACB2F1B<br>
 <i>
 - Added the DJI Anti Rollback version number below the SHA256 hash of the firmware so you can easily see if downgrading will be blocked for your desired firmware. THis will be coming to the web version soon.
