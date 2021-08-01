@@ -5,10 +5,12 @@ A custom written firmware download tool for popular drones. Also now available i
 
 Currently Supplying Files For:<br>
 **DJI**
-**Aircraft:** AGRAS MG-1P, AGRAS MG-1S, Inspire 1, Inspire 1 Pro, Inspire 2, Matrice 100, Matrice 200, Matrice 200 V2, Matrice 600, Matrice 600 Pro, Mavic Air, Mavic Air 2, Mavic Air 2s, Mavic Mini, Mavic Mini 2, Mavic Pro 1 - Incl Platinum and Alpine, Mavic Pro 2 - Enterprise, Mavic Pro 2 - Enterprise Dual, Mavic Pro 2 - Enterprise RTK, Mavic Pro 2 - Incl Zoom, Phantom 3 4K, Phantom 3 Advanced, Phantom 3 Professional, Phantom 3 Standard, Phantom 4 Advanced, Phantom 4 Pro 2.0, Phantom 4 Professional, Phantom 4 RTK, Phantom 4 RTK - China Only Version, Phantom 4 Standard, Spark<br>
+**Aircraft:** AGRAS MG-1P, AGRAS MG-1S, AGRAS T30, Inspire 1, Inspire 1 Pro, Inspire 2, Matrice 100, Matrice 200, Matrice 200 V2, Matrice 300, Matrice 600, Matrice 600 Pro, Mavic Air, Mavic Air 2, Mavic Air 2s, Mavic Mini, Mavic Mini 2, Mavic Pro 1 - Incl Platinum and Alpine, Mavic Pro 2 - Enterprise, Mavic Pro 2 - Enterprise Dual, Mavic Pro 2 - Enterprise RTK, Mavic Pro 2 - Incl Zoom, Phantom 3 4K, Phantom 3 Advanced, Phantom 3 Professional, Phantom 3 Standard, Phantom 4 Advanced, Phantom 4 Pro 2.0, Phantom 4 Professional, Phantom 4 RTK, Phantom 4 RTK - China Only Version, Phantom 4 Standard, Spark<br>
 **Remote Control:** Crystalsky 5.50 Inch, Crystalsky 7.85 Inch, Smart Controller<br>
 **Goggles:** Racing Edition, Standard, FPV System<br>
 **Other:** A3 Flight Controller, D-RTK GNSS, Ocusync Air System, FPV System - Air Unit, N3 Flight Controller, Osmo - Incl Pro Raw and Standard, Osmo Action, Osmo Pocket<br>
+**Unknown:** WM222, A406, AG410, A411, A500<br>
+
 
 **Autel**
 **Aircraft:** Evo, Evo II<br>
@@ -21,7 +23,7 @@ Build 7638.2078<br>
 SHA256 7750B892DE997233CA7CCB273A2B4D972C9744F15C71CA431EC7EDB3A20642B6<br>
 <i>
 - Due to the recent addition of Autel firmware, the app now has a 'Brand' filter where you can pre-filter results for DJI or Autel. Any future brands DDD supports can now be easily added!
-- Issue #18 recently reported by ddzobov has now been fixed. The app was crashing when large firmwares (such as SmartController) were downloaded. A new file handliong method has been written for these larger files.
+- Issue #18 recently reported by ddzobov has now been fixed. The app was crashing when large firmwares (such as SmartController) were downloaded. A new file handling method has been written for these larger files.
 </i>
 
 Version 2.0 <br>
