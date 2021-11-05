@@ -18,6 +18,13 @@ Currently Supplying Files For:<br>
 <br>
 
 **Release Notes**<br>
+Version 2.5 <br>
+Build 7979.27152<br>
+SHA256 DCFB6620B3F7BAE843D4C1D10563CADE0D1E2CC363D7D2D89603F4CD61CF0472<br>
+<i>
+- Fixed an issue where the Download button wouldnt become active for the 1st firmware in the list until you clicked on another firmware first. This meant it was impossible to download firmware for models where only a single firmware was listed.
+</i>
+
 Version 2.4 <br>
 Build 7888.31293<br>
 SHA256 69A98268E413D1F2B593006947A011E716AA2F5554C1C7A63F9D31B08EA1322D<br>
