@@ -18,6 +18,14 @@ Currently Supplying Files For:<br>
 <br>
 
 **Release Notes**<br>
+Version 2.6 <br>
+Build 8042.27234<br>
+SHA256 FA25B1197E6033FFC74ABF580D89EC3D8E58813054E6D8338139145943753D5F<br>
+<i>
+- Small GUI changes
+- Codebase cleanup, removing some old assets and functions used by older versions of the app.
+</i>
+
 Version 2.5 <br>
 Build 7979.27152<br>
 SHA256 DCFB6620B3F7BAE843D4C1D10563CADE0D1E2CC363D7D2D89603F4CD61CF0472<br>
@@ -182,19 +190,17 @@ I have been informed that some AV apps very occasionally trigger when DDD is ran
 
 Rest assured nothing nefarious is going on!
 
-https://www.virustotal.com/gui/file/7de8dd1f650238375c2edc9299c1c13efac937a3cae46cf2ce6e92da396ec971/detection
+https://www.virustotal.com/gui/file-analysis/ODg2NDMwNDc4MzQ0YmIzZTU0YWNhOTNiMTNmZGViMWI6MTY0MTU2ODU0MA==
 
 
 ---
 
-Source code has been removed to protect the app and the source files for firmware.
+App should run on any windows machine from 7 upwards. You must be running Dot Net Framework 4.5 or higher however.
 
-App should run on any windows machine from 7 upwards. You must be running Dot Net Framework 4.5 however.
-
-These files are stored on an FTP server however the files themselves are community sourced and are untouched/unmolested.
+These files supplied by DDD are untouched/unmolested official DJI firmware files.
 
 Come join us!
-https://join.slack.com/t/dji-rev/shared_invite/enQtMjk5OTEyMzcyMjI3LTdlZjY4NzQ5M2M2NmE5ZWM4OTgyNThmZDVmZjdjODE4ODYyNmYwZjYxMDcyYzcxNmZlYzI5ZjI2ZGQ2NGY1ZTc
+https://dji-rev.com
 
 -cs2000
 
