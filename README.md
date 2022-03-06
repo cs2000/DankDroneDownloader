@@ -1,15 +1,17 @@
 # DankDroneDownloader
 Giving DJI (and now, others!) the D ;)
 
-A custom written firmware download tool for popular drones. Also now available in your (Chrome, Firefox or Edge) web browser over at http://dankdronedownloader.com/DDD2/app for non windows based users!
+There are many tools in the drone community which allow you to flash firmware, however DJI, much like Apple, would rather ou didnt do this and they remove older firmware to more tightly control what versions their users are running. This isnt something that sits comfortably with me and as such, i present you with DankDroneDownloader, or DDD for short. DDD archives both old and new firmware for many popular DJI products & with compaible flashing software, will allow you to flash this firmware to your drone, camera, remote control or other random DJI device.
 
-Currently Supplying Files For:<br>
+DDD is quite simply a custom written firmware download tool for popular DJI devices and Autel Drones. Not a windows user? Not a problem! DDD is also available in your (Chrome, Firefox or Edge) web browser over at http://dankdronedownloader.com/DDD2/app. Of course we reccomend using the windows applicaion for the best features, but the choice is yours.
+
+DDD is Currently Supplying Files For:<br>
 **DJI**
-**Aircraft:** AGRAS MG-1P, AGRAS MG-1S, AGRAS T30, Inspire 1, Inspire 1 Pro, Inspire 2, Matrice 100, Matrice 200, Matrice 200 V2, Matrice 300, Matrice 600, Matrice 600 Pro, Mavic Air, Mavic Air 2, Mavic Air 2s, Mavic Mini, Mavic Mini 2, Mavic Pro 1 - Incl Platinum and Alpine, Mavic Pro 2 - Enterprise, Mavic Pro 2 - Enterprise Dual, Mavic Pro 2 - Enterprise RTK, Mavic Pro 2 - Incl Zoom, Phantom 3 4K, Phantom 3 Advanced, Phantom 3 Professional, Phantom 3 Standard, Phantom 4 Advanced, Phantom 4 Pro 2.0, Phantom 4 Professional, Phantom 4 RTK, Phantom 4 RTK - China Only Version, Phantom 4 Standard, Spark<br>
-**Remote Control:** Crystalsky 5.50 Inch, Crystalsky 7.85 Inch, Smart Controller<br>
-**Goggles:** Racing Edition, Standard, FPV System<br>
-**Other:** A3 Flight Controller, D-RTK GNSS, Ocusync Air System, FPV System - Air Unit, N3 Flight Controller, Osmo - Incl Pro Raw and Standard, Osmo Action, Osmo Pocket<br>
-**Unknown:** WM222, A406, AG410, A411, A500<br>
+**Aircraft:** AGRAS MG-1A, AGRAS MG-1P RTK, AGRAS MG-1S, AGRAS T10, AGRAS T20, AGRAS T30, FPV Racer, Inspire 1, Inspire 1 Pro, Inspire 2, Matrice 100, Matrice 200, Matrice 300, Matrice 600, Matrice 600 Pro, Mavic Air, Mavic Air 2, Mavic Air 2s, Mavic Mini, Mavic Mini 2, Mavic Mini SE, Mavic Pro 1 - Incl Platinum and Alpine, Mavic Pro 2 - Incl Zoom, Mavic Pro 2 Enterprise, Mavic Pro 2 Enterprise Dual, Mavic Pro 2 RTK, Mavic Pro 3, Phantom 3 - 4K, Phantom 3 - Advanced, Phantom 3 - Professional, Phantom 3 - Standard, Phantom 4 - Advanced, Phantom 4 - Multispectral, Phantom 4 - Professional, Phantom 4 - Professional 2.0, Phantom 4 - Standard, Phantom 4 RTK, Phantom 4 RTK - China Only Version, Spark<br>
+**Goggles:** FPV Racer (& DIY FPV Mode), FPV System, Racing Edition, Standard <br>
+**Other:** A3 Flight Controller, Crystalsky 5.50 Inch, Crystalsky 7.85 Inch, D-RTK GNSS, DJI RC Plus, DJI RC Pro, FPV System - Air Unit, FPV System - Air Unit Lite, N3 Flight Controller, Ocusync Air System, Smart Controller<br>
+**Cameras** Action 2, Osmo Action, Osmo Incl Pro Raw and Standard, Osmo Pocket, Osmo Pocket 2<br>
+**Unknown:** AG411, AG600, AG601, WM162, WM222<br>
 
 
 **Autel**
@@ -18,19 +20,34 @@ Currently Supplying Files For:<br>
 <br>
 
 **Release Notes**<br>
+Version 2.7 <br>
+Build 8100.36723<br>
+SHA256 4EF2523AF5082526AADE91B3BDC2A3A7E14B4AB0FD652F4B466A53F30DEB0486<br>
+**Special Note** - From this version onwards, support for **ALL** older versions of DDD has had to be removed. This was of course a difficult decision as i know i will lose some users, but was done to better support the app moving forwards. I have tried my very best to support the all updates, right back to November 2019's Version 2.0 build 7266.24220 whilst at the same time making database and app changes to add new features, but it has gotten to an almost un-managable state and as such i had to assess the app and remove all legacy functions from the database. From here onwards, the app will check in with the server each time its opened to see if its version is still supported. When/if future large scale changes have to be made, the app will tell you your version is out-of-date and that it must be updated, if you refuse the update, the app will quit. Whilst i dont anticipate doing this on a regular basis, even i dont like to be forced to update apps, there comes a time that to continue to improve, i have to cut the old versions lose.<br>
+However, we have an issue with the old versions out there, these dont have any idea about the server side changes and when i make the database swap they would simply die with a cryptic error message, this isnt good! My only way forward to force an update for these users is to purge the older database's content, but leave enough of the core structure out there so they can still connect. When these older versions are opened, the users will see a single firmware record telling people to update their app version. Im really sorry for having to force an update in this way, but in order to maintain the speed and reliability of the app, i had no other choice. You have my word this will be the only time i do it in this fashion as i understand the 'personal choice' around when you should have to update, but the changes im making, as always, are for the better and for you guys.<br>
+The older database framework will stay up until around the end of June 2022, by then, im sure everyone who uses DDD would have opened it at least once and updated if they still wish to use the platform.
+**TL:DR** Please update to this version to continue using DDD due to large scale database changes. cs2000<br>
+<i>
+- New 'Minimum Required Version' mechanism added to allow future app developments to have a smooth transition.
+- Adverts no longer duplicate when you refresh the firmware list.
+- Major back-end database overhaul.
+- Further redundant code cleaned up as a result of database cleanup.
+- Overhaul of the update mechanism to allow it to work with the 'Minimum Required Version' system.
+</i>
+
 Version 2.6 <br>
 Build 8042.27234<br>
 SHA256 FA25B1197E6033FFC74ABF580D89EC3D8E58813054E6D8338139145943753D5F<br>
 <i>
-- Small GUI changes
-- Codebase cleanup, removing some old assets and functions used by older versions of the app.
+- Small GUI changes, just shuffled a few misc things around!
+- Codebase cleanup, removing some of the old assets and functions used by previous versions of the app.
 </i>
 
 Version 2.5 <br>
 Build 7979.27152<br>
 SHA256 DCFB6620B3F7BAE843D4C1D10563CADE0D1E2CC363D7D2D89603F4CD61CF0472<br>
 <i>
-- Fixed an issue where the Download button wouldnt become active for the 1st firmware in the list until you clicked on another firmware first. This meant it was impossible to download firmware for models where only a single firmware was listed.
+- Fixed an issue where the Download button wouldnt become active for the first firmware in the list until you clicked on another firmware first. This meant it was impossible to download firmware for models where only a single firmware was available, this is now resolved.
 </i>
 
 Version 2.4 <br>
@@ -44,151 +61,19 @@ Version 2.0 <br>
 Build 7638.2078<br>
 SHA256 7750B892DE997233CA7CCB273A2B4D972C9744F15C71CA431EC7EDB3A20642B6<br>
 <i>
-- Due to the recent addition of Autel firmware, the app now has a 'Brand' filter where you can pre-filter results for DJI or Autel. Any future brands DDD supports can now be easily added!
-- Issue #18 recently reported by ddzobov has now been fixed. The app was crashing when large firmwares (such as SmartController) were downloaded. A new file handling method has been written for these larger files.
+- Due to the recent addition of Autel firmware, the app now has a 'Brand' filter where you can pre-filter results for DJI or Autel. Any future brands DDD supports can now be easily added without a new app release!
+- GitHub Issue #18 recently reported by ddzobov has now been fixed. The app was crashing when large firmwares (such as SmartController) were downloaded. A new file handling method has been written for these larger files.
 </i>
 
-Version 2.0 <br>
-Build 7882.12112<br>
-SHA256 7C6B1FFF2F123A3C08A253E7E8773B4F1733BFE0CA84278C1C1C19B7FACB2F1B<br>
-<i>
-- Added the DJI Anti Rollback version number below the SHA256 hash of the firmware so you can easily see if downgrading will be blocked for your desired firmware. THis will be coming to the web version soon.
-- Re-addition of the Drone-Hacks lock to the top bar of the app. Go visit these guys for your drone hacking needs!
-</i>
+**Donations**<br>
+DDD welcomes donations. The servers dont cost a huge ammount to keep online, but do ofcourse have a cost. Theirs also my time in sourcing and adding new firmware and of course app updates, web system updates and keeping trackm of new models. I do it for the lulz, but if you wanted to donate some cash for my time or server costs, this is of course much appreciated & your name will be shown in the app and on the website. Thank you very much for donating if you choose to do so! :)
 
-Version 2.0 <br>
-Build 7636.41342<br>
-SHA256 1E98577A021A94910E676E170626407E16AA3117C30643B7805DADB8933E6BED<br>
-<i>
-- Update of the Copyright date, seems i slipped behind with this!
-- Re-addition of the Drone-Hacks lock to the top bar of the app. Go visit these guys for your drone hacking needs!
-</i>
-
-Version 2.0 <br>
-Build 7574.18095<br>
-SHA256 5ff5f86cc7dc1b40de9ba9b45cb574a3ff88ed9aa8b08c7b88eaabf02b7934cd<br>
-<i>
-- For the very first time, DDD will now archive firmware for other brands of drones. This release includes support for the popular Autel series of drones with the Evo and the Evo 2. Further support for new manufacturers can now be added without new app updates and will be done as and when there is a demand or need for them. So far, Autel dont seem to apply as many of the same restrictions to their owners, but i want the hacking community to begin work on unlocking the few resttictions they do have (altitude and Chinese NFZ's) along with anything else we can unlock in terms of more performance, lets see!
-- Bug Fixes.
-- In future updates, there will be a "Brand" filter at the top of the app to select between DJI and Autel.
-</i>
-
-Version 2.0 <br>
-Build 7471.25679 <br>
-SHA256 ca116576322e592da2240ac60a1e6ecb839157a8a4bc916c64f2ff9ae76c360c<br>
-<i>
-- Simple bug fix. Forgot to compile all required image assets causing a few GUI issues.
-</i>
-
-Version 2.0 <br>
-Build 7460.19289 <br>
-SHA256 f6ec20dd1d87483467eff546d774eec67c6d5da2e4289a54c36c5469cf4a7f66<br>
-Once again, i am aware of the app not functioning inside of China or anywhere else protected by the "Great Fireall". Please dont raise GitHub Issue's about this as they will just be closed. I have no desire to add extra servers and a ton of additional code to the app just to bypass the censorship from a dictatorship government.<br>
-<i>
-- Changes to the GUI so that the old 'AC' and 'RC' labels have now been replaced with 'Aircraft' and 'Remote' respectively, this is to make things clearer for new users.
-- DUMLDore link on the top toolbar replaced with Drone-Hacks, the new way to flash your firmware and further hack your drone. DUMLDore only supported older drones (sadly), so time to update the link.
-</i>
-
-Version 2.0 <br>
-Build 7430.26169 <br>
-SHA256 980386950c6135381eeefc31e4adc5b6974cebf644750e8a9185ed4e976b52e4<br>
-Nothing major in this release. Just some minor bug fixes implimented to ensure app stability.<br>
-I am aware of the app not functioning inside of China or anywhere else protected by the "Great Fireall". There is little i can do about this right now.<br>
-
-Version 2.0 <br>
-Build 7266.24220 <br>
-SHA256 0b3b82550b869582e826f83b38eaa74ca5a1046248e77e0f6affd8eab0ad9a34<br>
-Yes, its here, a major overhaul to DDD has just been released complete with a whole host of changes!<br>
-This is a significant and very important update, please accept it when prompted. The old versions of DDD (anything below 2.0) will cease to function as of 30th of November 2019 due to the backend improvements made for DDD 2.0<br>
-<i>
-- The entire of the app has been rewritten from the ground up using modern libraries to improve basically everything, but keep the app you know and love.
-- Familier, but new GUI design. The same filters are available, however we have a small splash of colour.
-- If you exit the app, it will remember which category you had selected before and take you straight back to it.
-- MUCH faster app opening, this is down from 20-30 seconds to less then 5 now!
-- The app now uses multiple backend databases to ensure firmware info is always consistant and accurite.
-- Propper automatic failover now added. All firmware and database info is held on multiple server enabling auto failover if a server, or a file goes offline on one host.
-- New accounements page from within the app. Check this regulary as brief release notes and service announcements will be posted here.
-</i>
-
-Version 1.5 <br>
-Build 7221.31372 <br>
-<i>
-- Added in some code in the back-end to make available for use a secondary firmware server. This is for redundancy.
-- Fixed a security issue, both client and server side, which allowed undesirable files to be provided through the Firmware Upload utility and possible privilidge escalation on the server.
-</i>
-
-Version 1.5 <br>
-Build 7116.21904 <br>
-SHA256 7de8dd1f650238375c2edc9299c1c13efac937a3cae46cf2ce6e92da396ec971 <br>
-<i>
-- Add a new line just below the firmware list window which shows the SHA256 hash of the firmware file, this can then be verified after your download is complete to ensure the file is legitimate and a valid package.
-- Small GUI bug fixes, missed the drone icon on some of the window elements, text alignment tweaks.
-</i>
-
-Version 1.5 <br>
-Build 6945.21923 <br>
-<i>
-- Total rewrite of the firmware upload mechanism. Uploader is built into the app now rather than relying on a nasty PHP embedded page. Multiple firmware uploads are now supported aswell as marking partial/failed uploads.
-</i>
-
-Version 1.5 <br>
-Build 6808.28756 <br>
-<i>
-- Added firmware uploader so you can submit missing firmware files for addition to DDD.<br>
-<b>- I have to be able to figure out what drones your uploaded files are for!!! If you want them added, make sure you call them something sensible so i can identify and validate them before i add them to the DDD listings.</b><br>
-- Re-Added link to DUMLDore by Jezzab.
-</i>
-
-Version 1.5 <br>
-Build 6659.39278 <br>
-<i>
-- Fixed a couple more GUI bugs (resizing of window elements was possible).<br>
-- If you donate to DDD, you now get credits from within the app, check the "Donate" button to see it working.<br>
-- Re-coded the scroller's within the app to take data from a server rather than being "baked in".
-</i>
-
-Version 1.5 <br>
-Build 6650.20845 <br>
-<i>
-- Fixed GUI bug introduced with previous version.
-</i>
-
-Version 1.5 <br>
-Build 6649.35372 <br>
-<i>
-- Fixed GUI bug introduced with previous version.
-</i>
-
-Version 1.5 <br>
-Build 6648.40824 <br>
-<i>
-- Altered some small elements of the GUI, added Paypal donate buttons, scene greetings and a license.<br>
-- Small bug fixes.
-</i>
-
-Version 1.0 <br>
-Build 6560.41728 <br>
-<i>
-- Added link to DUMLdore by Jezzab. The people "in the know" knew this app already. But if you're new to the scene, it allows Windows users to flash the FW files they download with DankDroneDownloader. Just seemed a good idea to link mine and Jezzab's work in this way.
-</i>
-
-Version 1.0 <br>
-Build 6556.25899 <br>
-<i>
-- Added auto update feature. This was done to preserve the app if the host deletes the BIN files. App will prompt if there is an update.
-</i>
-
-Version 1.0 <br>
-<i>
-- Initial Release
-</i>
-
-<br>
+PayPal Donation URL: https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=KRR8TN42WWL88
 
 **Security**<br>
 I have been informed that some AV apps very occasionally trigger when DDD is ran. This is most likely due to the way it downloads the files, the files are not downloaded to disk in the standard way until the "Save As" dialogue comes up, this could be seen by some AV algorithms as being a download that the user didn’t initiate.
 
-Rest assured nothing nefarious is going on!
+Rest assured nothing nefarious is going on! I will try to remember (i am human) to update the link below with results for the current app version.
 
 https://www.virustotal.com/gui/file-analysis/ODg2NDMwNDc4MzQ0YmIzZTU0YWNhOTNiMTNmZGViMWI6MTY0MTU2ODU0MA==
 
@@ -199,7 +84,7 @@ App should run on any windows machine from 7 upwards. You must be running Dot Ne
 
 These files supplied by DDD are untouched/unmolested official DJI firmware files.
 
-Come join us!
+Come join our community!
 https://dji-rev.com
 
 -cs2000
