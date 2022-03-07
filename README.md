@@ -21,6 +21,13 @@ DDD is Currently Supplying Files For:<br>
 
 **Release Notes**<br>
 Version 2.7 <br>
+Build 8101.3038<br>
+SHA256 A6D9B0BC16BFCC21AE2156CF2600359FBCC189FC1F00F072005A3EE527A20331<br>
+<i>
+- Quick little update, The update prompt window will now auto-resize to fit the update release notes automatically!
+</i>
+
+Version 2.7 <br>
 Build 8100.36723<br>
 SHA256 4EF2523AF5082526AADE91B3BDC2A3A7E14B4AB0FD652F4B466A53F30DEB0486<br>
 **Special Note** - From this version onwards, support for **ALL** older versions of DDD has had to be removed. This was of course a difficult decision as i know i will lose some users, but was done to better support the app moving forwards. I have tried my very best to support the all updates, right back to November 2019's Version 2.0 build 7266.24220 whilst at the same time making database and app changes to add new features, but it has gotten to an almost un-managable state and as such i had to assess the app and remove all legacy functions from the database. From here onwards, the app will check in with the server each time its opened to see if its version is still supported. When/if future large scale changes have to be made, the app will tell you your version is out-of-date and that it must be updated, if you refuse the update, the app will quit. Whilst i dont anticipate doing this on a regular basis, even i dont like to be forced to update apps, there comes a time that to continue to improve, i have to cut the old versions lose.<br>
