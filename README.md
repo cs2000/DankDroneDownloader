@@ -64,14 +64,6 @@ SHA256 69A98268E413D1F2B593006947A011E716AA2F5554C1C7A63F9D31B08EA1322D<br>
 - Minor bug fixes.
 </i>
 
-Version 2.0 <br>
-Build 7638.2078<br>
-SHA256 7750B892DE997233CA7CCB273A2B4D972C9744F15C71CA431EC7EDB3A20642B6<br>
-<i>
-- Due to the recent addition of Autel firmware, the app now has a 'Brand' filter where you can pre-filter results for DJI or Autel. Any future brands DDD supports can now be easily added without a new app release!
-- GitHub Issue #18 recently reported by ddzobov has now been fixed. The app was crashing when large firmwares (such as SmartController) were downloaded. A new file handling method has been written for these larger files.
-</i>
-
 **Donations**<br>
 DDD welcomes donations. The servers dont cost a huge ammount to keep online, but do ofcourse have a cost. Theirs also my time in sourcing and adding new firmware and of course app updates, web system updates and keeping trackm of new models. I do it for the lulz, but if you wanted to donate some cash for my time or server costs, this is of course much appreciated & your name will be shown in the app and on the website. Thank you very much for donating if you choose to do so! :)
 
