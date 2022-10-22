@@ -1,7 +1,7 @@
 # DankDroneDownloader
 Giving DJI (and now, others!) the D ;)
 
-There are many tools in the drone community which allow you to flash firmware, however DJI, much like Apple, would rather ou didnt do this and they remove older firmware to more tightly control what versions their users are running. This isnt something that sits comfortably with me and as such, i present you with DankDroneDownloader, or DDD for short. DDD archives both old and new firmware for many popular DJI products & with compaible flashing software, will allow you to flash this firmware to your drone, camera, remote control or other random DJI device.
+There are many tools in the drone community which allow you to flash firmware, however DJI, much like Apple, would rather you didnt do this and they remove older firmware to more tightly control what versions their users are running. This isnt something that sits comfortably with me, you should be allowed to choose what firmware runs on your own devices and as such, i present you with DankDroneDownloader, or DDD for short. DDD archives both old and new firmware for many popular DJI products & with (compaible 3rd party flashing software), will allow you to flash this firmware to your drone, camera, remote control or other random DJI device.
 
 DDD is quite simply a custom written firmware download tool for popular DJI devices and Autel Drones. Not a windows user? Not a problem! DDD is also available in your (Chrome, Firefox or Edge) web browser over at http://dankdronedownloader.com/DDD2/app. Of course we reccomend using the windows applicaion for the best features, but the choice is yours.
 
@@ -9,9 +9,9 @@ DDD is Currently Supplying Files For:<br>
 **DJI**
 **Aircraft:** AGRAS MG-1A, AGRAS MG-1P RTK, AGRAS MG-1S, AGRAS T10, AGRAS T20, AGRAS T30, FPV Racer, Inspire 1, Inspire 1 Pro, Inspire 2, Matrice 100, Matrice 200, Matrice 300, Matrice 600, Matrice 600 Pro, Mavic Air, Mavic Air 2, Mavic Air 2s, Mavic Mini, Mavic Mini 2, Mavic Mini 3, Mavic Mini SE, Mavic Pro 1 - Incl Platinum and Alpine, Mavic Pro 2 - Incl Zoom, Mavic Pro 2 Enterprise, Mavic Pro 2 Enterprise Dual, Mavic Pro 2 RTK, Mavic Pro 3, Mavic Pro 3 Enterprise, Mavic Pro 3 Thermal, Phantom 3 - 4K, Phantom 3 - Advanced, Phantom 3 - Professional, Phantom 3 - Standard, Phantom 4 - Advanced, Phantom 4 - Multispectral, Phantom 4 - Professional, Phantom 4 - Professional 2.0, Phantom 4 - Standard, Phantom 4 RTK, Phantom 4 RTK - China Only Version, Spark<br>
 **Goggles:** FPV Racer (& DIY FPV Mode), FPV System, Racing Edition, Standard <br>
-**Other:** A3 Flight Controller, AG600 Gimball, Crystalsky 5.50 Inch, Crystalsky 7.85 Inch, D-RTK GNSS, DJI RC Plus, DJI RC Pro, FPV System - Air Unit, FPV System - Air Unit Lite, N3 Flight Controller, Ocusync Air System, Robomaster S1, Smart Controller, DJI Battery Station<br>
+**Other:** A3 Flight Controller, AG600 Gimball, Crystalsky 5.50 Inch, Crystalsky 7.85 Inch, D-RTK GNSS, DJI RC Plus, DJI RC Pro, FPV System - Air Unit, FPV System - Air Unit Lite, N3 Flight Controller, Ocusync Air System, Robomaster S1, Robomaster EP, Smart Controller, DJI Battery Station<br>
 **Cameras** Action 2, Osmo Action, Osmo Incl Pro Raw and Standard, Osmo Pocket, Osmo Pocket 2, Ronin 4D, Hasselblad X1D II 50C<br>
-**Unknown:** AG411, AG601, WM222, AC202, ASVL01<br>
+**Unknown:** AG411, AG601, WM222, AC202, ASVL01, RCP501<br>
 
 
 **Autel**
