@@ -20,6 +20,28 @@ DDD is Currently Supplying Files For:<br>
 <br>
 
 **Release Notes**<br>
+Version 2.8 <br>
+Build 8373.22050<br>
+SHA256 C87DFCE95D8EFA1F23686F192F54B00AA12F26D6962424D2460E144C442A29C9<br>
+<i>
+- DDD Credits now allow users to see and download private FW files.
+- DDD Credits balance is shown in the top right of the app.
+- Upload Firmware button has been removed. Many users seemed to think this flashed the selected FW to the drone rather than its intended use. It was not being used any longer so had been removed from the app.
+
+**DDD Credits?!?**
+Many people do not realise, but DDD (currently) hosts just over 3,000 files, however only around 800 of these are made public, the files you see are the public FW files that DJI released. In the background we have a vast array of firmware DJI never release to the public, these are a mix of BETA, Factory Test & even Calibration firmware.<br />
+These files have been shared with a select group of people for a long time now, however the time has come to make these available to everyone. From this release, i introduce DDD Credits.<br />
+Credits can be purchased at the rate of $1 for 1 Credit via the new button in the app and can be redeemed on a download of a previously hidden file. This change is aimed at drone repair shops, tinkerers and anyone who is just curious! <br />
+If you dont want to buy credits, thats fine, you will still see just the public files in DDD as you have always done and you wont see the private files, but for those that do, the option is there. <br />
+
+**How Does It Work?**
+Credits are purchased via PayPal and your purchase is logged into the database, this is then processed and credits added to your account. You can press the green Refresh button to reload your balance.
+Credits are tied to your CURRENT pc only, they CANNOT be shared, moved or transferred to any other machine. Reformatting your PC will result in the loss of your credit balance!!
+Once you purchase credits, you simply begin a download you will be informed of the credits cost to download that firmware. If you accept, the download begins and the credits are deducted from your account. Simple!
+
+**Note** All Public FW versions will remain on DDD for free, forever. This change is just aimed at certain people who may want, but never had access to the hidden files and allows them to access these and ultimately allow DDD to cover its own server bills. If you are one of the few people who already have access to the private files, you will still see the visual changes, but you will not need credits.
+</i>
+
 Version 2.7 <br>
 Build 8101.3038<br>
 SHA256 A6D9B0BC16BFCC21AE2156CF2600359FBCC189FC1F00F072005A3EE527A20331<br>
