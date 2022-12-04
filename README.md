@@ -32,7 +32,7 @@ SHA256 C87DFCE95D8EFA1F23686F192F54B00AA12F26D6962424D2460E144C442A29C9<br>
 Many people do not realise, but DDD (currently) hosts just over 3,000 files, however only around 800 of these are made public, the files you see are the public FW files that DJI released. In the background we have a vast array of firmware DJI never release to the public, these are a mix of BETA, Factory Test & even Calibration firmware.<br />
 These files have been shared with a select group of people for a long time now, however the time has come to make these available to everyone. From this release, i introduce DDD Credits.<br />
 Credits can be purchased at the rate of $1 for 1 Credit via the new button in the app and can be redeemed on a download of a previously hidden file. This change is aimed at drone repair shops, tinkerers and anyone who is just curious! <br />
-If you dont want to buy credits, thats fine, you will still see just the public files in DDD as you have always done and you wont see the private files, but for those that do, the option is there. <br />
+If you dont want to buy credits, thats fine, you will still see the public files in DDD as you have always done, but for those that do, the option is there. <br />
 
 **How Does It Work?**
 Credits are purchased via PayPal and your purchase is logged into the database, this is then processed and credits added to your account. You can press the green Refresh button to reload your balance.
