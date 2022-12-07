@@ -18,7 +18,7 @@ DDD is Currently Supplying Files For:<br>
 **Aircraft:** Evo, Evo II<br>
 
 <br>
-**Release Notes**<br>
+**Release Notes** <br>
 
 Version 2.8 <br>
 Build 8376.41046<br>
