@@ -19,6 +19,13 @@ DDD is Currently Supplying Files For:<br>
 
 <br>
 
+Version 2.8 <br>
+Build 8376.41046<br>
+SHA256 9E2618FE8FA7AB75C4D92C4355B7E62E4AA99BABA914D62C933003787CEA1FD1<br>
+<i>
+- Fixed a bug in the credits system, credit purchases are now back online, sorry for that!
+</i>
+
 **Release Notes**<br>
 Version 2.8 <br>
 Build 8373.22050<br>
