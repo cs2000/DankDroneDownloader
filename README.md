@@ -20,6 +20,14 @@ DDD is Currently Supplying Files For:<br>
 <br>
 **Release Notes** <br>
 Version 2.8 <br>
+Build 8377.27875<br>
+SHA256 B30DF5472B2E99BAAFA0938418D0D4EC0C6DFEB8BF80B23607E3FC8348AFD7EB<br>
+<i>
+- Further minor bug fixes.
+- Added the ARB number to the table which displays the firmware for easier identification of ARB values.
+</i>
+
+Version 2.8 <br>
 Build 8376.41046<br>
 SHA256 9E2618FE8FA7AB75C4D92C4355B7E62E4AA99BABA914D62C933003787CEA1FD1<br>
 <i>
