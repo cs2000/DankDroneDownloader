@@ -20,6 +20,14 @@ DDD is Currently Supplying Files For:<br>
 <br>
 **Release Notes** <br>
 Version 2.8 <br>
+Build 8378.32137<br>
+SHA256 9804CB6CD09F559DD635A612EA7FC1C95F10D9B3A22AAE4E5BA88EDADAA533B5<br>
+<i>
+- Further minor bug fixes.
+- Added the ability to transfer credits between user ID's. This will allow you to send friends/colleagues credits, or to transfer them between different computers you own.
+</i>
+
+Version 2.8 <br>
 Build 8377.27875<br>
 SHA256 B30DF5472B2E99BAAFA0938418D0D4EC0C6DFEB8BF80B23607E3FC8348AFD7EB<br>
 <i>
