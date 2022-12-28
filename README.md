@@ -7,11 +7,11 @@ DDD is quite simply a custom written firmware download tool for popular DJI devi
 
 DDD is Currently Supplying Files For:<br>
 **DJI**
-**Aircraft:** AGRAS MG-1A, AGRAS MG-1P RTK, AGRAS MG-1S, AGRAS T10, AGRAS T20, AGRAS T25, AGRAS T30, AGRAS T50, FPV Racer, Inspire 1, Inspire 1 Pro, Inspire 2, Matrice 100, Matrice 200, Matrice 300, Matrice 600, Matrice 600 Pro, Mavic Air, Mavic Air 2, Mavic Air 2s, Mavic Mini, Mavic Mini 2, Mavic Mini 3, Mavic Mini SE, Mavic Pro 1 - Incl Platinum and Alpine, Mavic Pro 2 - Incl Zoom, Mavic Pro 2 Enterprise, Mavic Pro 2 Enterprise Dual, Mavic Pro 2 RTK, Mavic Pro 3, Mavic 3 Classic, Mavic Pro 3 Enterprise, Mavic Pro 3 Thermal, Phantom 3 - 4K, Phantom 3 - Advanced, Phantom 3 - Professional, Phantom 3 - Standard, Phantom 4 - Advanced, Phantom 4 - Multispectral, Phantom 4 - Professional, Phantom 4 - Professional 2.0, Phantom 4 - Standard, Phantom 4 RTK, Phantom 4 RTK - China Only Version, Spark<br>
+**Aircraft:** AGRAS MG-1A, AGRAS MG-1P RTK, AGRAS MG-1S, AGRAS T10, AGRAS T20, AGRAS T25, AGRAS T30, AGRAS T50, FPV Racer, Inspire 1, Inspire 1 Pro, Inspire 2, Matrice 100, Matrice 200, Matrice 300, Matrice 600, Matrice 600 Pro, Mavic Air, Mavic Air 2, Mavic Air 2s, Mavic Mini, Mavic Mini 2, Mavic Mini 3, Mavic Mini SE, Mavic Pro 1 - Incl Platinum and Alpine, Mavic Pro 2 - Incl Zoom, Mavic Pro 2 Enterprise, Mavic Pro 2 Enterprise Dual, Mavic Pro 2 RTK, Mavic Pro 3, Mavic 3 Classic, Mavic Pro 3 Enterprise, Mavic Pro 3 Thermal, Mavic Pro 3 Multispectral, Phantom 3 - 4K, Phantom 3 - Advanced, Phantom 3 - Professional, Phantom 3 - Standard, Phantom 4 - Advanced, Phantom 4 - Multispectral, Phantom 4 - Professional, Phantom 4 - Professional 2.0, Phantom 4 - Standard, Phantom 4 RTK, Phantom 4 RTK - China Only Version, Spark<br>
 **Goggles:** FPV Racer (& DIY FPV Mode), FPV System, Racing Edition, Standard <br>
 **Other:** A3 Flight Controller, AG600 Gimball, Crystalsky 5.50 Inch, Crystalsky 7.85 Inch, D-RTK GNSS, DJI RC Plus, DJI RC Pro, DJI RC Pro Enterprise, FPV System - Air Unit, FPV System - Air Unit Lite, N3 Flight Controller, Ocusync Air System, Robomaster S1, Robomaster EP, Smart Controller, DJI Battery Station<br>
 **Cameras** Action 2, Osmo Action, Osmo Incl Pro Raw and Standard, Osmo Pocket, Osmo Pocket 2, Ronin 4D, Ronin 4D High-Bright Monitor, Ronin 4D Video Transmitter, Hasselblad X1D II 50C<br>
-**Unknown:** AG601, WM222, AC202, ASVL01, RCP501, WM1615, RC010, RC011, TA101, EA210, WM163<br>
+**Unknown:** AG601, WM222, AC202, ASVL01, RCP501, WM1615, RC010, RC011, TA101, EA210, WM163, AG408<br>
 
 
 **Autel**
@@ -19,6 +19,14 @@ DDD is Currently Supplying Files For:<br>
 
 <br>
 **Release Notes** <br>
+Version 2.8 <br>
+Build 8397.18471<br>
+SHA256 904EF82E2423A5978EBF87919295B08E607DA0B91431B01C65F3030D4341DD5F<br>
+<i>
+- Couple of small bug fixes.
+- Moved DDD to a new server for faster downloads and more expansion possibility.
+</i>
+
 Version 2.8 <br>
 Build 8378.32137<br>
 SHA256 9804CB6CD09F559DD635A612EA7FC1C95F10D9B3A22AAE4E5BA88EDADAA533B5<br>
