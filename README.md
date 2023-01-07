@@ -20,6 +20,14 @@ DDD is Currently Supplying Files For:<br>
 <br>
 **Release Notes** <br>
 Version 2.8 <br>
+Build 8407.822<br>
+SHA256 D1287D2B3997B12CF04C24816488147EB13BDFD00A44D64072C54F536D1E04ED<br>
+<i>
+- Fixed some spelling and grammar issues on some dialogue boxes.
+
+</i>
+
+Version 2.8 <br>
 Build 8397.18471<br>
 SHA256 904EF82E2423A5978EBF87919295B08E607DA0B91431B01C65F3030D4341DD5F<br>
 <i>
