@@ -81,7 +81,7 @@ Credits are purchased via PayPal and your purchase is logged into the database, 
 Credits are tied to your CURRENT pc only, they can be shared, moved or transferred to another user if you have their ID. Reformatting your PC will result in the loss of your credit balance however!!
 Once you purchase credits, you simply begin a download you will be informed of the credits cost to download that firmware. If you accept, the download begins and the credits are deducted from your account. Simple!
 
-**Note** All Public FW versions will remain on DDD for free, forever. This change is just aimed at certain people who may want, but never had access to the hidden files and allows them to access these and ultimately allow DDD to cover its own server bills. If you are one of the few people who already have access to the private files, you will still see the visual changes, but you will not need credits.
+**Note** All Public FW versions will remain on DDD for free, forever. This change is just aimed at certain people who may want, but never had access to the hidden files and allows them to access these and ultimately allow DDD to cover its own server bills. If you are one of the few people who already have access to the private files, you will still see the visual changes, but you will not need credits. DDD Credits & the previously private firmware files are NOT available on the web downloader, you must use the windows EXE to see these files and to purchase/use DDD Credits.
 </i>
 
 Version 2.7 <br>
