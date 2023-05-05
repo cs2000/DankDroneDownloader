@@ -22,6 +22,14 @@ DDD is Currently Supplying Files For:<br>
 
 
 Version 2.8 <br>
+Build 8525.21322<br>
+SHA256 9A02097CDF0CCBB6E868401CC596E4750E898E35B9E5F9A9FFF223BBD20803F4<br>
+<i>
+- Emergency update which includes the IP for the new server. As discussed on https://dddstatus.com/ the old server suffered a HDD failure and resulted in needing th move the entire system to a new one. This update will resume functionality of the app.
+</i>
+
+
+Version 2.8 <br>
 Build 8407.822<br>
 SHA256 D1287D2B3997B12CF04C24816488147EB13BDFD00A44D64072C54F536D1E04ED<br>
 <i>
