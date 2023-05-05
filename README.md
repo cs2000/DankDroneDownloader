@@ -27,7 +27,7 @@ Version 2.8 <br>
 Build 8525.21322<br>
 SHA256 9A02097CDF0CCBB6E868401CC596E4750E898E35B9E5F9A9FFF223BBD20803F4<br>
 <i>
-- Emergency update which includes the IP for the new server. As discussed on https://dddstatus.com/ the old server suffered a HDD failure and resulted in needing th move the entire system to a new one. This update will resume functionality of the app.
+- Emergency patch which includes the IP for the new server. As discussed on https://dddstatus.com/ the old server suffered a HDD failure and resulted in needing to move the entire system to a new one. This update will resume functionality of the app. **Many** appologies for this clunky manual update being required!
 </i>
 
 
