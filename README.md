@@ -24,6 +24,14 @@ DDD is Currently Supplying Files For:<br>
 
 
 Version 3.0 <br>
+Build 8661.40529<br>
+SHA256 6C9EA34F0F59941114E1C97E7ACDFCF8EA406C55D08FB3B5292180910419D02B<br>
+<i>
+- Massively reduced EXE size (80Mb to 20MB) by pre-packing some of the components inside the EXE.
+- Code cleanup to remove as much unecessary old code, assets etc as possible.
+</i>
+
+Version 3.0 <br>
 Build 8659.134<br>
 SHA256 9AFECDFF4922E0E955D0E00731744F18B91FCF588CFC89FEA8EDD59841C77736<br>
 <i>
@@ -68,16 +76,16 @@ DDD welcomes donations. The servers dont cost a huge ammount to keep online, but
 PayPal Donation URL: https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=KRR8TN42WWL88
 
 **Security**<br>
-I have been informed that some AV apps very occasionally trigger when DDD is ran. This is most likely due to the way it downloads the files, the files are not downloaded to disk in the standard way until the "Save As" dialogue comes up, this could be seen by some AV algorithms as being a download that the user didn’t initiate.
+I have been informed that some AV apps occasionally flag DDD as malware of various forms. This is caused by the way that some components of the EXE are packed to reduce filesize of the app itself
 
-Rest assured nothing nefarious is going on! I will try to remember (i am human) to update the link below with results for the current app version.
+It is only obscure, non mainstream apps that report this and are of course false positives. Rest assured nothing nefarious is going on! I will try to remember (i am human) to update the link below with results for the current app version.
 
-https://www.virustotal.com/gui/file/9afecdff4922e0e955d0e00731744f18b91fcf588cfc89fea8edd59841c77736
+https://www.virustotal.com/gui/file-analysis/ZDQ5NWU4YWIxOWNhOWZlOThkZmNiMDNiOTMxMTU3ZWY6MTY5NTA3Mjk1NQ==
 
 
 ---
 
-App should run on any windows machine from 7 upwards. You must be running Dot Net Framework 7.0 or higher however. If you are missing this, the app will tell you and offer to download it for you from Microsoft.
+App has been tested to run on Windows 10 1607 upwards. You must be running Dot Net Framework 7.0 or higher however. If you are missing this, the app will tell you and offer to download it for you from Microsoft.
 
 
 Come join our community!
