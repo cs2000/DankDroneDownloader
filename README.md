@@ -24,12 +24,22 @@ DDD is Currently Supplying Files For:<br>
 
 
 Version 3.0 <br>
+Build 8666.1215<br>
+SHA256 D3845B0DEA2296880443FFF425701603E66857506E19B03C261B59899DC53EBB<br>
+<i>
+- Further reductions in the EXE size to 16.4MB by moving updater to server and further removing redundant code and components.
+- Minor tweaks in various areas of app.
+</i>
+
+
+Version 3.0 <br>
 Build 8661.40529<br>
 SHA256 6C9EA34F0F59941114E1C97E7ACDFCF8EA406C55D08FB3B5292180910419D02B<br>
 <i>
 - Massively reduced EXE size (80Mb to 20MB) by pre-packing some of the components inside the EXE.
 - Code cleanup to remove as much unecessary old code, assets etc as possible.
 </i>
+
 
 Version 3.0 <br>
 Build 8659.134<br>
@@ -80,7 +90,7 @@ I have been informed that some AV apps occasionally flag DDD as malware of vario
 
 It is only obscure, non mainstream apps that report this and are of course false positives. Rest assured nothing nefarious is going on! I will try to remember (i am human) to update the link below with results for the current app version.
 
-https://www.virustotal.com/gui/file-analysis/ZDQ5NWU4YWIxOWNhOWZlOThkZmNiMDNiOTMxMTU3ZWY6MTY5NTA3Mjk1NQ==
+https://www.virustotal.com/gui/file-analysis/YjhjNDRiM2EzZGRjN2ViNTc2YTI5N2IzNGE4YWJhYWU6MTY5NTQyNjgzOA==
 
 
 ---
