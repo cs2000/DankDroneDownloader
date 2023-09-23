@@ -47,9 +47,10 @@ SHA256 9AFECDFF4922E0E955D0E00731744F18B91FCF588CFC89FEA8EDD59841C77736<br>
 <i>
 - DDD has finally launched with its brand new API backend! This enabled easier expansion, faster app performance and greater security & stability.
 - A limited, but nice selection of themes are now available from the themes button, including a new dark theme!
-- Search for your desired firmware with new search button on top toolbar
-- Paid firmware now shows cost in the table of firmware's available so you know the cost before download 
-- Download speed and remaining time estimate shown in progress bar
+- Search for your desired firmware with new search button on top toolbar.
+- Paid firmware now shows cost in the table of firmware's available so you know the cost before download.
+- Download speed and remaining time estimate shown in progress bar.
+- If you buy a firmware with DDD Credits, you can now re-download this firmware as many times as needed within a (currently set to) 12 hr period. This is designed for people with weak internet connections where downloads may fail or if you accidentally delete the file.
 - MANY bugfixes, refactoring and optimisations performed
 </i>
 
