@@ -22,6 +22,17 @@ DDD is Currently Supplying Files For:<br>
 
 **Release Notes**
 
+Version 3.0 <br>
+Build 8707.29423<br>
+SHA256 FBA9A6836F03BFF04A5A37BAD9097F7A27A2E044E4EEE9E0FABB7E284ED0C2E1<br>
+<i>
+- Small backend bug fixes and tweaks.
+
+NOTE: I am aware some people are getting the error message "401 unauthorised" when trying to load previous versions of the app. Whilst this version doesnt aim to fix this, it adds some debugging information to DDD's logs so i can hopefully identify why this is happening. Often, rebooting or whitelisting DDD from your AV/Firewall apps will resolve this, but for the small subset of people where this doesnt, hopefully this version will give me some info as to whats going on.
+
+As of this version, only V3.0 Build 8666.1215 and up will be allowed to connect to the server to enable me to cleanup code and resources used by older app versions.
+</i>
+
 
 Version 3.0 <br>
 Build 8666.1215<br>
@@ -55,32 +66,6 @@ SHA256 9AFECDFF4922E0E955D0E00731744F18B91FCF588CFC89FEA8EDD59841C77736<br>
 </i>
 
 
-Version 2.8 <br>
-Build 8525.21322<br>
-SHA256 9A02097CDF0CCBB6E868401CC596E4750E898E35B9E5F9A9FFF223BBD20803F4<br>
-<i>
-- Emergency patch which includes the IP for the new server. As discussed on https://dddstatus.com/ the old server suffered a HDD failure and resulted in needing to move the entire system to a new one. This update will resume functionality of the app. **Many** appologies for this clunky manual update being required!
-</i>
-
-
-Version 2.8 <br>
-Build 8407.822<br>
-SHA256 D1287D2B3997B12CF04C24816488147EB13BDFD00A44D64072C54F536D1E04ED<br>
-<i>
-- Fixed some spelling and grammar issues on some dialogue boxes.
-</i>
-
-
-
-Version 2.8 <br>
-Build 8397.18471<br>
-SHA256 904EF82E2423A5978EBF87919295B08E607DA0B91431B01C65F3030D4341DD5F<br>
-<i>
-- Couple of small bug fixes.
-- Moved DDD to a new server for faster downloads and more expansion possibility.
-</i>
-
-
 **Donations**<br>
 DDD welcomes donations. The servers dont cost a huge ammount to keep online, but do of course have a cost. There's also my time in sourcing and adding new firmware and of course app updates, web system updates and keeping track of new models. I do it for the lulz, but if you wanted to donate some cash for my time or server costs, this is of course much appreciated & your name will be shown in the app and on the website. Thank you very much for donating if you choose to do so! :)
 
@@ -89,9 +74,9 @@ PayPal Donation URL: https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_
 **Security**<br>
 I have been informed that some AV apps occasionally flag DDD as malware of various forms. This is caused by the way that some components of the EXE are packed to reduce filesize of the app itself
 
-It is only obscure, non mainstream apps that report this and are of course false positives. Rest assured nothing nefarious is going on! I will try to remember (i am human) to update the link below with results for the current app version.
+These are of course false positives. Rest assured nothing nefarious is going on! I will try to remember (i am human) to update the link below with results for the current app version.
 
-https://www.virustotal.com/gui/file-analysis/YjhjNDRiM2EzZGRjN2ViNTc2YTI5N2IzNGE4YWJhYWU6MTY5NTQyNjgzOA==
+https://www.virustotal.com/gui/file-analysis/Y2M4N2VlODFlYmNmNjJkNDJmNzg3MmUxNzY4NDFiNGI6MTY5OTAyODk5Ng==
 
 
 ---
