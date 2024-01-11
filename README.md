@@ -23,8 +23,8 @@ DDD is Currently Supplying Files For:<br>
 **Release Notes**
 
 Version 3.0 <br>
-Build 8776.21086<br>
-SHA256 3F67EB68327B942120283A0E65A6A1DF45A6BFDFA36384466979256E1E099DFD<br>
+Build 88776.22851<br>
+SHA256 DB1BB47B4E40B3CEC29901C90131F101F9441E39A1B5B60AB0AB2147C2201626<br>
 <i>
 - With the release of DotNet 8.x, DDD now uses this which allowed removal of some additional legacy code.
 - Remove old code (as discussed above) to shrink EXE size further.
@@ -86,7 +86,7 @@ I have been informed that some AV apps occasionally flag DDD as malware of vario
 
 These are of course false positives. Rest assured nothing nefarious is going on! I will try to remember (i am human) to update the link below with results for the current app version.
 
-https://www.virustotal.com/gui/file-analysis/Y2M4N2VlODFlYmNmNjJkNDJmNzg3MmUxNzY4NDFiNGI6MTY5OTAyODk5Ng==
+https://www.virustotal.com/gui/file-analysis/NjQ4YzkwNTcwMzlmZThlMzIyOWE5ZGZhNzkyNWM4ODc6MTcwNDk3NzM3MQ==
 
 
 ---
