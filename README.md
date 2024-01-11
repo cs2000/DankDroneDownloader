@@ -23,12 +23,22 @@ DDD is Currently Supplying Files For:<br>
 **Release Notes**
 
 Version 3.0 <br>
+Build 8776.21086<br>
+SHA256 3F67EB68327B942120283A0E65A6A1DF45A6BFDFA36384466979256E1E099DFD<br>
+<i>
+- With the release of DotNet 8.x, DDD now uses this which allowed removal of some additional legacy code.
+- Remove old code (as discussed above) to shrink EXE size further.
+- Reduce size of some DLL's
+
+NOTE: If you recieve the message "401 unauthorised" when trying to load the app, please ensure your system time is sync'd with an NTP time server. In 100% of the cases where this has been reported to me, the users system time was off, causing the server to reject the request.
+</i>
+
+
+Version 3.0 <br>
 Build 8707.29423<br>
 SHA256 FBA9A6836F03BFF04A5A37BAD9097F7A27A2E044E4EEE9E0FABB7E284ED0C2E1<br>
 <i>
 - Small backend bug fixes and tweaks.
-
-NOTE: I am aware some people are getting the error message "401 unauthorised" when trying to load previous versions of the app. Whilst this version doesnt aim to fix this, it adds some debugging information to DDD's logs so i can hopefully identify why this is happening. Often, rebooting or whitelisting DDD from your AV/Firewall apps will resolve this, but for the small subset of people where this doesnt, hopefully this version will give me some info as to whats going on.
 
 As of this version, only V3.0 Build 8666.1215 and up will be allowed to connect to the server to enable me to cleanup code and resources used by older app versions.
 </i>
