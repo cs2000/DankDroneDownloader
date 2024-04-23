@@ -7,11 +7,13 @@ DDD is quite simply a custom written firmware download tool for popular DJI devi
 
 Having connection issues? **always** check https://dddstatus.com first!
 
+NOTE: If you recieve the message "401 unauthorised" when trying to load the app, please ensure your system time is sync'd with an NTP time server. In 100% of the cases where this has been reported to me, the users system time was off, causing the server to reject the request.
+
 DDD is Currently Supplying Files For:<br>
 **DJI**
 **Aircraft:** AGRAS MG-1A, AGRAS MG-1P RTK, AGRAS MG-1S, AGRAS T10, AGRAS T20, AGRAS T25, AGRAS T30, AGRAS T50, FPV Racer, Inspire 1, Inspire 1 Pro, Inspire 2, Inspire 3, Matrice 200, Matrice 300, Matrice 350 RTK, Matrice 600, Matrice 600 Pro, Mavic Air, Mavic Air 2, Mavic Air 2s, Mavic Mini, Mini 2, Mini 3, Mini SE, Mini 2 SE, Mini 3 Pro, Mavic Pro 1 - Incl Platinum and Alpine, Mavic Pro 2 - Incl Zoom, Mavic Pro 2 Enterprise, Mavic Pro 2 Enterprise Dual, Mavic Pro 2 RTK, Mavic Pro 3, Mavic 3 Classic, Mavic Pro 3 Enterprise, Mavic Pro 3 Thermal, Mavic Pro 3 Multispectral, Phantom 3 - 4K, Phantom 3 - Advanced, Phantom 3 - Professional, Phantom 3 - Standard, Phantom 4 - Advanced, Phantom 4 - Multispectral, Phantom 4 - Professional, Phantom 4 - Professional 2.0, Phantom 4 - Standard, Phantom 4 RTK, Phantom 4 RTK - China Only Version, Spark<br>
-**Goggles:** FPV Racer (& DIY FPV Mode), FPV System, Racing Edition, Standard <br>
-**Other:** AGRAS T40/T20 Generator and Charger, A3 Flight Controller, AG600 Gimball, Crystalsky 5.50 Inch, Crystalsky 7.85 Inch, D-RTK GNSS, DJI RC Plus, DJI RC Pro, DJI RC Pro Enterprise, FPV System - Air Unit, FPV System - Air Unit Lite, N3 Flight Controller, Ocusync Air System, Robomaster S1, Robomaster EP, Smart Controller, DJI Battery Station, DJI Dock, DJI Transmission, DJI RS3 Gimball, Skyport V2<br>
+**Goggles:** FPV Racer (& DIY FPV Mode), FPV System, Racing Edition, Standard, Integra, Goggles 2, Goggles 3 <br>
+**Other:** AGRAS T40/T20 Generator and Charger, A3 Flight Controller, AG600 Gimball, Crystalsky 5.50 Inch, Crystalsky 7.85 Inch, D-RTK GNSS, DJI RC Plus, DJI RC Plus Enterprise, DJI RC Pro, DJI RC Pro Enterprise, FPV System - Air Unit, FPV System - Air Unit Lite, N3 Flight Controller, Ocusync Air System, Robomaster S1, Robomaster EP, Smart Controller, DJI Battery Station, DJI Dock, DJI Transmission, DJI RS3 Gimball, Skyport V2<br>
 **Cameras** Action 2, Osmo Action, Osmo Incl Pro Raw and Standard, Osmo Pocket, Osmo Pocket 2, Osmo Pocket 3, Ronin 4D, Ronin 4D High-Bright Monitor, Ronin 4D Video Transmitter, Hasselblad X1D II 50C, Osmo Action 3, Osmo Action 4, Zenmuse DJI P1, Zenmuse DJI L1, Zenmuse L2, Zenmuse H20, Zenmuse H20N<br>
 **Unknown:** AG408, A603, RC010, RC011, RCP501, TA101, WM222<br>
 
@@ -29,8 +31,6 @@ SHA256 DB1BB47B4E40B3CEC29901C90131F101F9441E39A1B5B60AB0AB2147C2201626<br>
 - With the release of DotNet 8.x, DDD now uses this which allowed removal of some additional legacy code.
 - Remove old code (as discussed above) to shrink EXE size further.
 - Reduce size of some DLL's
-
-NOTE: If you recieve the message "401 unauthorised" when trying to load the app, please ensure your system time is sync'd with an NTP time server. In 100% of the cases where this has been reported to me, the users system time was off, causing the server to reject the request.
 </i>
 
 
