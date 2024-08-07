@@ -38,37 +38,34 @@ DDD is quite simply a custom written firmware download tool for popular DJI devi
 
 ### **Release Notes**
 
-**Version:** 3.0
-**Build:** 88776.22851
-**SHA256:** DB1BB47B4E40B3CEC29901C90131F101F9441E39A1B5B60AB0AB2147C2201626
+**Version:** 3.0<br>
+**Build:** 88776.22851<br>
+**SHA256:** DB1BB47B4E40B3CEC29901C90131F101F9441E39A1B5B60AB0AB2147C2201626<br>
 <i>
 - With the release of DotNet 8.x, DDD now uses this which allowed removal of some additional legacy code.
 - Remove old code (as discussed above) to shrink EXE size further.
 - Reduce size of some DLL's
-</i>
+</i><br><br>
 
-[========]
 
-**Version:** 3.0
-**Build:** 8707.29423
-**SHA256:** FBA9A6836F03BFF04A5A37BAD9097F7A27A2E044E4EEE9E0FABB7E284ED0C2E1
+**Version:** 3.0<br>
+**Build:** 8707.29423<br>
+**SHA256:** FBA9A6836F03BFF04A5A37BAD9097F7A27A2E044E4EEE9E0FABB7E284ED0C2E1<br>
 <i>
 - Small backend bug fixes and tweaks.
 
 As of this version, only V3.0 Build 8666.1215 and up will be allowed to connect to the server to enable me to cleanup code and resources used by older app versions.
-</i>
+</i><br><br>
 
-[========]
 
-**Version:** 3.0
-**Build:** 8666.1215
-**SHA256:** D3845B0DEA2296880443FFF425701603E66857506E19B03C261B59899DC53EBB
+**Version:** 3.0<br>
+**Build:** 8666.1215<br>
+**SHA256:** D3845B0DEA2296880443FFF425701603E66857506E19B03C261B59899DC53EBB<br>
 <i>
 - Further reductions in the EXE size to 16.4MB by moving updater to server and further removing redundant code and components.
 - Minor tweaks in various areas of app.
-</i>
+</i><br><br>
 
-[========]
 
 **Version:** 3.0
 **Build:** 8661.40529
@@ -78,11 +75,10 @@ As of this version, only V3.0 Build 8666.1215 and up will be allowed to connect 
 - Code cleanup to remove as much unecessary old code, assets etc as possible.
 </i>
 
-[========]
 
-**Version:** 3.0
-**Build:** 8659.134
-**SHA256:** 9AFECDFF4922E0E955D0E00731744F18B91FCF588CFC89FEA8EDD59841C77736
+**Version:** 3.0<br>
+**Build:** 8659.134<br>
+**SHA256:** 9AFECDFF4922E0E955D0E00731744F18B91FCF588CFC89FEA8EDD59841C77736<br>
 <i>
 - DDD has finally launched with its brand new API backend! This enabled easier expansion, faster app performance and greater security & stability.
 - A limited, but nice selection of themes are now available from the themes button, including a new dark theme!
