@@ -67,13 +67,13 @@ As of this version, only V3.0 Build 8666.1215 and up will be allowed to connect 
 </i><br><br>
 
 
-**Version:** 3.0
-**Build:** 8661.40529
-**SHA256:** 6C9EA34F0F59941114E1C97E7ACDFCF8EA406C55D08FB3B5292180910419D02B
+**Version:** 3.0<br>
+**Build:** 8661.40529<br>
+**SHA256:** 6C9EA34F0F59941114E1C97E7ACDFCF8EA406C55D08FB3B5292180910419D02B<br>
 <i>
 - Massively reduced EXE size (80Mb to 20MB) by pre-packing some of the components inside the EXE.
 - Code cleanup to remove as much unecessary old code, assets etc as possible.
-</i>
+</i><br><br>
 
 
 **Version:** 3.0<br>
