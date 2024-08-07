@@ -6,17 +6,16 @@ There are many tools in the drone community which allow you to flash firmware, h
 DDD is quite simply a custom written firmware download tool for popular DJI devices and Autel Drones. Not a windows user? Not a problem! DDD is also available in your (Chrome, Firefox or Edge) web browser over at https://www.dankdronedownloader.com . Of course we reccomend using the windows applicaion for the best features, but the choice is yours.
 
 ------------
+### ** Having connection issues?**
 
-## Having connection issues?
 **Always** check https://dddstatus.com first! This page is updated with any known service impacting issues and is the place to go for this kind of information.
 
 ------------
 
-**NOTE: **If you recieve the message "401 unauthorised" when trying to load the app, please ensure your system time is sync'd with an NTP time server. In 100% of the cases where this has been reported to me, the users system time was off, causing the server to reject the request.
+**NOTE: ** If you recieve the message "401 unauthorised" when trying to load the app, please ensure your system time is sync'd with an NTP time server. In 100% of the cases where this has been reported to me, the users system time was off, causing the server to reject the request.
 
 ------------
-
-## DDD is Currently Supplying Files For:
+### **DDD is Currently Supplying Files For:**
 
 ### DJI
 
