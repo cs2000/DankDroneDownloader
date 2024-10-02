@@ -36,6 +36,15 @@ DDD is quite simply a custom written firmware download tool for popular DJI devi
 
 
 ### **Release Notes**
+**Version:** 3.0<br>
+**Build:** 9041.18464<br>
+**SHA256:** EE22B84C5DFC3BDCBD8F84AF0199443CC0C932AE1AD6605DC7C8DD40D2A3615D<br>
+<i>
+- Minor bug fixes. Things such as the license text not respecting line breaks have been resolved.
+- Remove some unused UI elements.
+- Updates to all external libraries for better security.
+</i><br><br>
+
 
 **Version:** 3.0<br>
 **Build:** 88776.22851<br>
@@ -104,7 +113,7 @@ I have been informed that some AV apps occasionally flag DDD as malware of vario
 
 These are of course false positives. Rest assured nothing nefarious is going on! I will try to remember (i am human) to update the link below with results for the current app version.
 
-https://www.virustotal.com/gui/file-analysis/NjQ4YzkwNTcwMzlmZThlMzIyOWE5ZGZhNzkyNWM4ODc6MTcwNDk3NzM3MQ==
+https://www.virustotal.com/gui/file-analysis/OTY0NmIzZDZhZTE5YWYzZjU2MTA2NWVjZTVkMzA0ZmQ6MTcyNzg2MzEyNQ==
 
 ------------
 
