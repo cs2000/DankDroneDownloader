@@ -43,6 +43,7 @@ DDD is quite simply a custom written firmware download tool for popular DJI devi
 - Minor bug fixes. Things such as the license text not respecting line breaks have been resolved.
 - Remove some unused UI elements.
 - Updates to all external libraries for better security.
+- Massive reduction in EXE file size
 </i><br><br>
 
 
