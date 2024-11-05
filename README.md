@@ -37,6 +37,15 @@ DDD is quite simply a custom written firmware download tool for popular DJI devi
 
 ### **Release Notes**
 **Version:** 3.0<br>
+**Build:** 9075.20909<br>
+**SHA256:** 5A8C568C74E4F08DD9C463A26012BEDAD629657B474A227295B067DA2C1612A2<br>
+<i>
+- Resolved bug when changing themes too quickly causing "another instance is open" message
+- Changed how the firmware list is downloaded from the server to try to resolve issues with slow internet connections or PC's
+</i><br><br>
+
+
+**Version:** 3.0<br>
 **Build:** 9041.18464<br>
 **SHA256:** EE22B84C5DFC3BDCBD8F84AF0199443CC0C932AE1AD6605DC7C8DD40D2A3615D<br>
 <i>
@@ -84,20 +93,6 @@ As of this version, only V3.0 Build 8666.1215 and up will be allowed to connect 
 - Code cleanup to remove as much unecessary old code, assets etc as possible.
 </i><br><br>
 
-
-**Version:** 3.0<br>
-**Build:** 8659.134<br>
-**SHA256:** 9AFECDFF4922E0E955D0E00731744F18B91FCF588CFC89FEA8EDD59841C77736<br>
-<i>
-- DDD has finally launched with its brand new API backend! This enabled easier expansion, faster app performance and greater security & stability.
-- A limited, but nice selection of themes are now available from the themes button, including a new dark theme!
-- Search for your desired firmware with new search button on top toolbar.
-- Paid firmware now shows cost in the table of firmware's available so you know the cost before download.
-- Download speed and remaining time estimate shown in progress bar.
-- If you buy a firmware with DDD Credits, you can now re-download this firmware as many times as needed within a (currently set to) 12 hr period. This is designed for people with weak internet connections where downloads may fail or if you accidentally delete the file.
-- MANY bugfixes, refactoring and optimisations performed
-</i>
-
 ------------
 
 
@@ -114,7 +109,7 @@ I have been informed that some AV apps occasionally flag DDD as malware of vario
 
 These are of course false positives. Rest assured nothing nefarious is going on! I will try to remember (i am human) to update the link below with results for the current app version.
 
-https://www.virustotal.com/gui/file-analysis/OTY0NmIzZDZhZTE5YWYzZjU2MTA2NWVjZTVkMzA0ZmQ6MTcyNzg2MzEyNQ==
+https://www.virustotal.com/gui/file-analysis/NjU0ZDM0OThlMWViODhlODdjNzRiNDI0MjUxZjZmMmE6MTczMDgwOTQwOA==
 
 ------------
 
