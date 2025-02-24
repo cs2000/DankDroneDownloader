@@ -23,9 +23,10 @@ DDD is quite simply a custom written firmware download tool for popular DJI devi
 
 **Goggles:** FPV Racer (& DIY FPV Mode), FPV System, Racing Edition, Standard, Integra, Goggles 2, Goggles 3, Goggles N3
 
-**Other:** AGRAS T40/T20 Generator and Charger, A3 Flight Controller, AG600 Gimball, Crystalsky 5.50 Inch, Crystalsky 7.85 Inch, D-RTK GNSS, DJI RC Plus, DJI RC Plus Enterprise, DJI RC Pro, DJI RC Pro Enterprise, FPV System - Air Unit, FPV System - Air Unit Lite, N3 Flight Controller, Ocusync Air System, Robomaster S1, Robomaster EP, Smart Controller, DJI Battery Station, DJI Dock, DJI Transmission, DJI RS3 Gimball, Skyport V2, Flycart, Relay Module, BS60 Intelligent Battery Station, BS65 Intelligent Battery Station, DJI TB51 Battery Charging Hub (Inspire 3), Agras T30 Battery, Focus Pro LiDAR, Focus Pro Hand Unit, Focus Pro Grip, Dock 2, RS 4 Handheld Gimball, RC-N2, Avata 2 Motion RC, Enterprise RC
+**Other:** AGRAS T40/T20 Generator and Charger, A3 Flight Controller, AG600 Gimball, Crystalsky 5.50 Inch, Crystalsky 7.85 Inch, D-RTK GNSS, DJI RC Plus, DJI RC Plus Enterprise, DJI RC Pro, DJI RC Pro Enterprise, FPV System - Air Unit, FPV System - Air Unit Lite, N3 Flight Controller, Ocusync Air System, Robomaster S1, Robomaster EP, Smart Controller, DJI Battery Station, DJI Dock, DJI Transmission, DJI RS3 Gimball, Skyport V2, Flycart, Relay Module, BS60 Intelligent Battery Station, BS65 Intelligent Battery Station, DJI TB51 Battery Charging Hub (Inspire 3), Agras T30 Battery, Focus Pro LiDAR, Focus Pro Hand Unit, Focus Pro Grip, Dock 2, RS 4 Handheld Gimball, RC-N2, Avata 2 Motion RC, Enterprise RC, AVINOX Drive System, X-Port, RS4 Gimball
 
 **Cameras** Action 2, Osmo Action, Osmo Incl Pro Raw and Standard, Osmo Pocket, Osmo Pocket 2, Osmo Pocket 3, Ronin 4D, Ronin 4D High-Bright Monitor, Ronin 4D Video Transmitter, Hasselblad X1D II 50C, Osmo Action 3, Osmo Action 4, Zenmuse DJI P1, Zenmuse DJI L1, Zenmuse L2, Zenmuse H20, Zenmuse H20N<br>
+
 **Unknown:** AG408, A603, RC010, RC011, RCP501, WM222<br>
 
 
