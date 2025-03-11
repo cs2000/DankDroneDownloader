@@ -38,6 +38,16 @@ DDD is quite simply a custom written firmware download tool for popular DJI devi
 
 ### **Release Notes**
 **Version:** 3.0<br>
+**Build:** 9201.21004<br>
+**SHA256:** 32DAE9CD6181A53222FF3183086FE9EACBF24A97BD0068D3D452C9B108101DD7<br>
+<i>
+- Small bug fixes to try to address connectivity issues.
+
+NOTE: Some AV's are detecting DDD as malicious. Please note this is a false positive. I am working on ways to fix this so that the app shows as being clear.
+</i><br><br>
+
+
+**Version:** 3.0<br>
 **Build:** 9160.26257<br>
 **SHA256:** 706865DFAB1D7903D5043AB10A4C9271AA550ACE06CC25121AD0CA908FFF8C1D<br>
 <i>
@@ -126,11 +136,11 @@ PayPal Donation URL: https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_
 
 
 ### Security
-I have been informed that some AV apps occasionally flag DDD as malware of various forms. This is caused by the way that some components of the EXE are packed to reduce filesize of the app itself
+I have been informed that some AV apps occasionally flag DDD as malware of various forms. This is caused by the way that some components of the EXE are packed to reduce filesize of the app itself and for anti-decompilation.
 
 These are of course false positives. Rest assured nothing nefarious is going on! I will try to remember (i am human) to update the link below with results for the current app version.
 
-https://www.virustotal.com/gui/file/706865dfab1d7903d5043ab10a4c9271aa550ace06cc25121ad0ca908fff8c1d
+https://www.virustotal.com/gui/file-analysis/ZjU0ZWNlMjM4YzA5YmExYTVmNmFjYzhlMzhlMDY3ODk6MTc0MTY5MzI5MA==
 
 ------------
 
@@ -139,8 +149,5 @@ DDD has been tested to run on Windows 10 1607 upwards. You must be running Dot N
 
 ------------
 
-
-Come join our community!
-https://dji-rev.com
 
 -cs2000
