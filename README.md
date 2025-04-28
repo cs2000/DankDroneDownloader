@@ -43,7 +43,7 @@ DDD is quite simply a custom written firmware download tool for popular DJI devi
 ### **Release Notes**
 **Version:** 3.0<br>
 **Build:** 9209.15834<br>
-**SHA256:** 12F93A15448E039BD049A6AD3501673FABD0C16F4BB29CB37490EDED7262410C<br>
+**SHA256:** 26B1AE2EA46F6237DDB2989E18DC5AEA8806D3D21FCAADA7982F02F7C4E8F140<br>
 <i>
 - Updated internal components to .NET 9.0
 - Thanks to Drone-Hacks DDD is now signed. This helps prevent false detectection of DDD by Antivirus apps and ensures that the app is safe and secure!
