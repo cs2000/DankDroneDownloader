@@ -45,6 +45,15 @@ DDD is quite simply a custom written firmware download tool for popular DJI devi
 **Build:** 9209.15834<br>
 **SHA256:** 12F93A15448E039BD049A6AD3501673FABD0C16F4BB29CB37490EDED7262410C<br>
 <i>
+- Updated internal components to .NET 9.0
+- Thanks to Drone-Hacks DDD is now signed. This helps prevent false detectection of DDD by Antivirus apps and ensures that the app is safe and secure!
+</i><br><br>
+
+
+**Version:** 3.0<br>
+**Build:** 9209.15834<br>
+**SHA256:** 12F93A15448E039BD049A6AD3501673FABD0C16F4BB29CB37490EDED7262410C<br>
+<i>
 - Thanks to Drone-Hacks DDD is now signed. This helps prevent false detectection of DDD by Antivirus apps and ensures that the app is safe and secure!
 </i><br><br>
 
@@ -152,12 +161,12 @@ I have been informed that some AV apps occasionally flag DDD as malware of vario
 
 These are of course false positives. Rest assured nothing nefarious is going on! I will try to remember (i am human) to update the link below with results for the current app version.
 
-https://www.virustotal.com/gui/file/12f93a15448e039bd049a6ad3501673fabd0c16f4bb29cb37490eded7262410c
+https://www.virustotal.com/gui/file/26b1ae2ea46f6237ddb2989e18dc5aea8806d3d21fcaada7982f02f7c4e8f140
 
 ------------
 
 ### Compatability
-DDD has been tested to run on Windows 10 1607 upwards. You must be running Dot Net Framework 8.0 or higher however. If you are missing this, the app will tell you and offer to download it for you from Microsoft.
+DDD has been tested to run on Windows 10 1607 upwards. You must be running Dot Net Framework 9.0 or higher however. If you are missing this, the app will tell you and offer to download it for you from Microsoft.
 
 ------------
 
